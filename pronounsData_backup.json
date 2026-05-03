@@ -1,0 +1,6006 @@
+{
+  "topic": "Swedish personal and possessive pronouns",
+  "instruction": "Choose the correct word.",
+  "exercises": [
+    {
+      "id": 1,
+      "sentence_sv": "Det är dina bok",
+      "sentence_en": "It is your book",
+      "options": [
+        "dina",
+        "er",
+        "Han"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 2,
+      "sentence_sv": "Ni älskar bok",
+      "sentence_en": "You (pl) love the book",
+      "options": [
+        "Ni",
+        "dem",
+        "hennes"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 3,
+      "sentence_sv": "De tar med väg",
+      "sentence_en": "They bring the way",
+      "options": [
+        "De",
+        "dig",
+        "din"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 4,
+      "sentence_sv": "De ringer dem",
+      "sentence_en": "They call them",
+      "options": [
+        "dem",
+        "Ni",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 5,
+      "sentence_sv": "Hon hjälper idé",
+      "sentence_en": "She help the idea",
+      "options": [
+        "Hon",
+        "er",
+        "din"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 6,
+      "sentence_sv": "Hon glömmer barn",
+      "sentence_en": "She forget the child",
+      "options": [
+        "Hon",
+        "honom",
+        "mitt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 7,
+      "sentence_sv": "Jag besöker barn",
+      "sentence_en": "I visit the child",
+      "options": [
+        "Jag",
+        "dig",
+        "dina"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 8,
+      "sentence_sv": "Vi förklarar henne",
+      "sentence_en": "We explain her",
+      "options": [
+        "henne",
+        "Hon",
+        "hennes"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 9,
+      "sentence_sv": "Hon ser honom",
+      "sentence_en": "She see him",
+      "options": [
+        "honom",
+        "Jag",
+        "min"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 10,
+      "sentence_sv": "Det är min jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "min",
+        "dig",
+        "Jag"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 11,
+      "sentence_sv": "Ni älskar er",
+      "sentence_en": "You (pl) love you",
+      "options": [
+        "er",
+        "Han",
+        "deras"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 12,
+      "sentence_sv": "Hon ringer hus",
+      "sentence_en": "She call the house",
+      "options": [
+        "Hon",
+        "oss",
+        "deras"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 13,
+      "sentence_sv": "Han tar med hus",
+      "sentence_en": "He bring the house",
+      "options": [
+        "Han",
+        "dig",
+        "mitt"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 14,
+      "sentence_sv": "Ni hittar bok",
+      "sentence_en": "You (pl) find the book",
+      "options": [
+        "Ni",
+        "mig",
+        "vårt"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 15,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "dem",
+        "Vi"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 16,
+      "sentence_sv": "De besöker dem",
+      "sentence_en": "They visit them",
+      "options": [
+        "dem",
+        "Han",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 17,
+      "sentence_sv": "Han ringer dig",
+      "sentence_en": "He call you",
+      "options": [
+        "dig",
+        "Hon",
+        "deras"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 18,
+      "sentence_sv": "Det är deras jobb",
+      "sentence_en": "It is their job",
+      "options": [
+        "deras",
+        "dig",
+        "Man"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 19,
+      "sentence_sv": "Ni besöker henne",
+      "sentence_en": "You (pl) visit her",
+      "options": [
+        "henne",
+        "Ni",
+        "min"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 20,
+      "sentence_sv": "Det är dina barn",
+      "sentence_en": "It is your child",
+      "options": [
+        "dina",
+        "henne",
+        "Han"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 21,
+      "sentence_sv": "De tar med hus",
+      "sentence_en": "They bring the house",
+      "options": [
+        "De",
+        "honom",
+        "mina"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 22,
+      "sentence_sv": "Det är mina hus",
+      "sentence_en": "It is my house",
+      "options": [
+        "mina",
+        "er",
+        "Ni"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 23,
+      "sentence_sv": "Vi ser honom",
+      "sentence_en": "We see him",
+      "options": [
+        "honom",
+        "Hon",
+        "vår"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 24,
+      "sentence_sv": "Jag hjälper väg",
+      "sentence_en": "I help the way",
+      "options": [
+        "Jag",
+        "mig",
+        "vårt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 25,
+      "sentence_sv": "Det är mina väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "mina",
+        "dem",
+        "Hon"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 26,
+      "sentence_sv": "Det är hans bok",
+      "sentence_en": "It is his book",
+      "options": [
+        "hans",
+        "honom",
+        "Du"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 27,
+      "sentence_sv": "Det är min bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "min",
+        "oss",
+        "Man"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 28,
+      "sentence_sv": "Det är hennes bil",
+      "sentence_en": "It is her car",
+      "options": [
+        "hennes",
+        "mig",
+        "Du"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 29,
+      "sentence_sv": "Du tar med er",
+      "sentence_en": "You bring you",
+      "options": [
+        "er",
+        "Man",
+        "hennes"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 30,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "er",
+        "Man"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 31,
+      "sentence_sv": "Ni älskar dem",
+      "sentence_en": "You (pl) love them",
+      "options": [
+        "dem",
+        "Du",
+        "min"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 32,
+      "sentence_sv": "Hon hjälper bil",
+      "sentence_en": "She help the car",
+      "options": [
+        "Hon",
+        "dig",
+        "ditt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 33,
+      "sentence_sv": "Hon hittar mig",
+      "sentence_en": "She find me",
+      "options": [
+        "mig",
+        "Han",
+        "mina"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 34,
+      "sentence_sv": "Vi besöker bil",
+      "sentence_en": "We visit the car",
+      "options": [
+        "Vi",
+        "dig",
+        "min"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 35,
+      "sentence_sv": "Det är mitt vän",
+      "sentence_en": "It is my friend",
+      "options": [
+        "mitt",
+        "dig",
+        "Hon"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 36,
+      "sentence_sv": "Du besöker barn",
+      "sentence_en": "You visit the child",
+      "options": [
+        "Du",
+        "mig",
+        "dina"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 37,
+      "sentence_sv": "Hon hittar bok",
+      "sentence_en": "She find the book",
+      "options": [
+        "Hon",
+        "dig",
+        "våra"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 38,
+      "sentence_sv": "Ni ringer dem",
+      "sentence_en": "You (pl) call them",
+      "options": [
+        "dem",
+        "Man",
+        "hans"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 39,
+      "sentence_sv": "Han tar med dem",
+      "sentence_en": "He bring them",
+      "options": [
+        "dem",
+        "Jag",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 40,
+      "sentence_sv": "Det är vårt telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "vårt",
+        "honom",
+        "Jag"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 41,
+      "sentence_sv": "Vi förklarar bok",
+      "sentence_en": "We explain the book",
+      "options": [
+        "Vi",
+        "honom",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 42,
+      "sentence_sv": "Han tar med jobb",
+      "sentence_en": "He bring the job",
+      "options": [
+        "Han",
+        "oss",
+        "vår"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 43,
+      "sentence_sv": "Ni tar med er",
+      "sentence_en": "You (pl) bring you",
+      "options": [
+        "er",
+        "De",
+        "deras"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 44,
+      "sentence_sv": "Det är vår bil",
+      "sentence_en": "It is our car",
+      "options": [
+        "vår",
+        "mig",
+        "Man"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 45,
+      "sentence_sv": "Du hjälper väg",
+      "sentence_en": "You help the way",
+      "options": [
+        "Du",
+        "henne",
+        "hennes"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 46,
+      "sentence_sv": "Det är min bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "min",
+        "mig",
+        "Ni"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 47,
+      "sentence_sv": "Ni förklarar vän",
+      "sentence_en": "You (pl) explain the friend",
+      "options": [
+        "Ni",
+        "oss",
+        "dina"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 48,
+      "sentence_sv": "Han älskar oss",
+      "sentence_en": "He love us",
+      "options": [
+        "oss",
+        "Hon",
+        "mitt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 49,
+      "sentence_sv": "Du ser oss",
+      "sentence_en": "You see us",
+      "options": [
+        "oss",
+        "Man",
+        "deras"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 50,
+      "sentence_sv": "Det är hennes vän",
+      "sentence_en": "It is her friend",
+      "options": [
+        "hennes",
+        "er",
+        "Man"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 51,
+      "sentence_sv": "Det är min väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "min",
+        "honom",
+        "Man"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 52,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "dig",
+        "Han"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 53,
+      "sentence_sv": "Det är ditt idé",
+      "sentence_en": "It is your idea",
+      "options": [
+        "ditt",
+        "dig",
+        "De"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 54,
+      "sentence_sv": "Jag glömmer telefon",
+      "sentence_en": "I forget the phone",
+      "options": [
+        "Jag",
+        "oss",
+        "vår"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 55,
+      "sentence_sv": "Han ringer väg",
+      "sentence_en": "He call the way",
+      "options": [
+        "Han",
+        "er",
+        "hennes"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 56,
+      "sentence_sv": "Det är hennes hus",
+      "sentence_en": "It is her house",
+      "options": [
+        "hennes",
+        "oss",
+        "Han"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 57,
+      "sentence_sv": "Vi älskar barn",
+      "sentence_en": "We love the child",
+      "options": [
+        "Vi",
+        "mig",
+        "våra"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 58,
+      "sentence_sv": "Man ser vän",
+      "sentence_en": "One / People see the friend",
+      "options": [
+        "Man",
+        "dem",
+        "dina"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 59,
+      "sentence_sv": "Ni tar med honom",
+      "sentence_en": "You (pl) bring him",
+      "options": [
+        "honom",
+        "Man",
+        "din"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 60,
+      "sentence_sv": "Det är mitt idé",
+      "sentence_en": "It is my idea",
+      "options": [
+        "mitt",
+        "oss",
+        "Man"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 61,
+      "sentence_sv": "Det är deras nycklar",
+      "sentence_en": "It is their keys",
+      "options": [
+        "deras",
+        "mig",
+        "Vi"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 62,
+      "sentence_sv": "Ni glömmer honom",
+      "sentence_en": "You (pl) forget him",
+      "options": [
+        "honom",
+        "Vi",
+        "deras"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 63,
+      "sentence_sv": "Det är hans telefon",
+      "sentence_en": "It is his phone",
+      "options": [
+        "hans",
+        "dem",
+        "Man"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 64,
+      "sentence_sv": "Det är våra barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "våra",
+        "oss",
+        "Vi"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 65,
+      "sentence_sv": "Du hjälper bok",
+      "sentence_en": "You help the book",
+      "options": [
+        "Du",
+        "dem",
+        "din"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 66,
+      "sentence_sv": "Det är min idé",
+      "sentence_en": "It is my idea",
+      "options": [
+        "min",
+        "er",
+        "Jag"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 67,
+      "sentence_sv": "Hon hjälper dem",
+      "sentence_en": "She help them",
+      "options": [
+        "dem",
+        "Hon",
+        "mitt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 68,
+      "sentence_sv": "Man ser vän",
+      "sentence_en": "One / People see the friend",
+      "options": [
+        "Man",
+        "honom",
+        "våra"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 69,
+      "sentence_sv": "Hon älskar dig",
+      "sentence_en": "She love you",
+      "options": [
+        "dig",
+        "Ni",
+        "min"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 70,
+      "sentence_sv": "Jag älskar dig",
+      "sentence_en": "I love you",
+      "options": [
+        "dig",
+        "Vi",
+        "hennes"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 71,
+      "sentence_sv": "Du besöker er",
+      "sentence_en": "You visit you",
+      "options": [
+        "er",
+        "Vi",
+        "deras"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 72,
+      "sentence_sv": "Du hittar barn",
+      "sentence_en": "You find the child",
+      "options": [
+        "Du",
+        "mig",
+        "mitt"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 73,
+      "sentence_sv": "Det är mina bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "mina",
+        "dig",
+        "Hon"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 74,
+      "sentence_sv": "Ni träffar honom",
+      "sentence_en": "You (pl) meet him",
+      "options": [
+        "honom",
+        "Han",
+        "vår"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 75,
+      "sentence_sv": "De hjälper bil",
+      "sentence_en": "They help the car",
+      "options": [
+        "De",
+        "dig",
+        "ditt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 76,
+      "sentence_sv": "Vi hjälper väg",
+      "sentence_en": "We help the way",
+      "options": [
+        "Vi",
+        "honom",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 77,
+      "sentence_sv": "Det är vårt jobb",
+      "sentence_en": "It is our job",
+      "options": [
+        "vårt",
+        "er",
+        "Ni"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 78,
+      "sentence_sv": "De hjälper dig",
+      "sentence_en": "They help you",
+      "options": [
+        "dig",
+        "Ni",
+        "min"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 79,
+      "sentence_sv": "Det är deras väg",
+      "sentence_en": "It is their way",
+      "options": [
+        "deras",
+        "honom",
+        "Jag"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 80,
+      "sentence_sv": "Det är våra bok",
+      "sentence_en": "It is our book",
+      "options": [
+        "våra",
+        "mig",
+        "De"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 81,
+      "sentence_sv": "Han glömmer barn",
+      "sentence_en": "He forget the child",
+      "options": [
+        "Han",
+        "mig",
+        "vår"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 82,
+      "sentence_sv": "Hon älskar dig",
+      "sentence_en": "She love you",
+      "options": [
+        "dig",
+        "Du",
+        "hennes"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 83,
+      "sentence_sv": "Ni hjälper dem",
+      "sentence_en": "You (pl) help them",
+      "options": [
+        "dem",
+        "Han",
+        "dina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 84,
+      "sentence_sv": "Ni hittar idé",
+      "sentence_en": "You (pl) find the idea",
+      "options": [
+        "Ni",
+        "mig",
+        "våra"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 85,
+      "sentence_sv": "De glömmer honom",
+      "sentence_en": "They forget him",
+      "options": [
+        "honom",
+        "Jag",
+        "ditt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 86,
+      "sentence_sv": "Det är din telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "din",
+        "er",
+        "De"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 87,
+      "sentence_sv": "Det är dina vän",
+      "sentence_en": "It is your friend",
+      "options": [
+        "dina",
+        "dem",
+        "Hon"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 88,
+      "sentence_sv": "Vi tar med väg",
+      "sentence_en": "We bring the way",
+      "options": [
+        "Vi",
+        "mig",
+        "mitt"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 89,
+      "sentence_sv": "Det är min bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "min",
+        "er",
+        "Vi"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 90,
+      "sentence_sv": "Du tar med dig",
+      "sentence_en": "You bring you",
+      "options": [
+        "dig",
+        "Ni",
+        "deras"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 91,
+      "sentence_sv": "Vi besöker jobb",
+      "sentence_en": "We visit the job",
+      "options": [
+        "Vi",
+        "mig",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 92,
+      "sentence_sv": "Det är min telefon",
+      "sentence_en": "It is my phone",
+      "options": [
+        "min",
+        "honom",
+        "Ni"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 93,
+      "sentence_sv": "De ser honom",
+      "sentence_en": "They see him",
+      "options": [
+        "honom",
+        "Du",
+        "min"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 94,
+      "sentence_sv": "De hittar nycklar",
+      "sentence_en": "They find the keys",
+      "options": [
+        "De",
+        "oss",
+        "vårt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 95,
+      "sentence_sv": "Hon förklarar idé",
+      "sentence_en": "She explain the idea",
+      "options": [
+        "Hon",
+        "honom",
+        "deras"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 96,
+      "sentence_sv": "Vi glömmer henne",
+      "sentence_en": "We forget her",
+      "options": [
+        "henne",
+        "Du",
+        "vårt"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 97,
+      "sentence_sv": "Det är din telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "din",
+        "honom",
+        "Vi"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 98,
+      "sentence_sv": "Vi älskar bil",
+      "sentence_en": "We love the car",
+      "options": [
+        "Vi",
+        "dig",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 99,
+      "sentence_sv": "Det är ditt bok",
+      "sentence_en": "It is your book",
+      "options": [
+        "ditt",
+        "mig",
+        "Man"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 100,
+      "sentence_sv": "Jag glömmer barn",
+      "sentence_en": "I forget the child",
+      "options": [
+        "Jag",
+        "honom",
+        "deras"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 101,
+      "sentence_sv": "Man besöker jobb",
+      "sentence_en": "One / People visit the job",
+      "options": [
+        "Man",
+        "dem",
+        "vår"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 102,
+      "sentence_sv": "Hon hittar jobb",
+      "sentence_en": "She find the job",
+      "options": [
+        "Hon",
+        "er",
+        "ditt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 103,
+      "sentence_sv": "Det är mina nycklar",
+      "sentence_en": "It is my keys",
+      "options": [
+        "mina",
+        "dem",
+        "Du"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 104,
+      "sentence_sv": "Ni glömmer henne",
+      "sentence_en": "You (pl) forget her",
+      "options": [
+        "henne",
+        "Hon",
+        "din"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 105,
+      "sentence_sv": "Man hittar telefon",
+      "sentence_en": "One / People find the phone",
+      "options": [
+        "Man",
+        "henne",
+        "våra"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 106,
+      "sentence_sv": "Han ringer er",
+      "sentence_en": "He call you",
+      "options": [
+        "er",
+        "Vi",
+        "deras"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 107,
+      "sentence_sv": "Det är dina nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "dina",
+        "er",
+        "Man"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 108,
+      "sentence_sv": "Det är dina idé",
+      "sentence_en": "It is your idea",
+      "options": [
+        "dina",
+        "honom",
+        "Jag"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 109,
+      "sentence_sv": "Hon träffar nycklar",
+      "sentence_en": "She meet the keys",
+      "options": [
+        "Hon",
+        "er",
+        "din"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 110,
+      "sentence_sv": "Jag hjälper honom",
+      "sentence_en": "I help him",
+      "options": [
+        "honom",
+        "Ni",
+        "min"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 111,
+      "sentence_sv": "Det är hans väg",
+      "sentence_en": "It is his way",
+      "options": [
+        "hans",
+        "dig",
+        "Han"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 112,
+      "sentence_sv": "Han tar med dem",
+      "sentence_en": "He bring them",
+      "options": [
+        "dem",
+        "Hon",
+        "mitt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 113,
+      "sentence_sv": "Du hittar oss",
+      "sentence_en": "You find us",
+      "options": [
+        "oss",
+        "Ni",
+        "hans"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 114,
+      "sentence_sv": "Det är mina jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "mina",
+        "dig",
+        "Vi"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 115,
+      "sentence_sv": "De älskar bil",
+      "sentence_en": "They love the car",
+      "options": [
+        "De",
+        "mig",
+        "deras"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 116,
+      "sentence_sv": "Det är vårt barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "vårt",
+        "henne",
+        "Man"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 117,
+      "sentence_sv": "Det är min väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "min",
+        "dem",
+        "Han"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 118,
+      "sentence_sv": "Det är våra idé",
+      "sentence_en": "It is our idea",
+      "options": [
+        "våra",
+        "dem",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 119,
+      "sentence_sv": "Jag tar med barn",
+      "sentence_en": "I bring the child",
+      "options": [
+        "Jag",
+        "honom",
+        "min"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 120,
+      "sentence_sv": "Han glömmer telefon",
+      "sentence_en": "He forget the phone",
+      "options": [
+        "Han",
+        "er",
+        "deras"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 121,
+      "sentence_sv": "Vi hittar mig",
+      "sentence_en": "We find me",
+      "options": [
+        "mig",
+        "Man",
+        "din"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 122,
+      "sentence_sv": "Vi ringer mig",
+      "sentence_en": "We call me",
+      "options": [
+        "mig",
+        "Han",
+        "din"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 123,
+      "sentence_sv": "De hjälper hus",
+      "sentence_en": "They help the house",
+      "options": [
+        "De",
+        "oss",
+        "hans"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 124,
+      "sentence_sv": "Hon tar med henne",
+      "sentence_en": "She bring her",
+      "options": [
+        "henne",
+        "Man",
+        "min"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 125,
+      "sentence_sv": "Det är mina bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "mina",
+        "mig",
+        "De"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 126,
+      "sentence_sv": "De besöker hus",
+      "sentence_en": "They visit the house",
+      "options": [
+        "De",
+        "dem",
+        "dina"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 127,
+      "sentence_sv": "Jag glömmer er",
+      "sentence_en": "I forget you",
+      "options": [
+        "er",
+        "De",
+        "hans"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 128,
+      "sentence_sv": "Jag ringer bok",
+      "sentence_en": "I call the book",
+      "options": [
+        "Jag",
+        "honom",
+        "dina"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 129,
+      "sentence_sv": "Du tar med mig",
+      "sentence_en": "You bring me",
+      "options": [
+        "mig",
+        "Vi",
+        "mitt"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 130,
+      "sentence_sv": "Det är vår barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "vår",
+        "henne",
+        "Ni"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 131,
+      "sentence_sv": "Hon träffar telefon",
+      "sentence_en": "She meet the phone",
+      "options": [
+        "Hon",
+        "er",
+        "min"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 132,
+      "sentence_sv": "Du förklarar dig",
+      "sentence_en": "You explain you",
+      "options": [
+        "dig",
+        "Ni",
+        "min"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 133,
+      "sentence_sv": "Man besöker telefon",
+      "sentence_en": "One / People visit the phone",
+      "options": [
+        "Man",
+        "dig",
+        "ditt"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 134,
+      "sentence_sv": "Vi tar med henne",
+      "sentence_en": "We bring her",
+      "options": [
+        "henne",
+        "Hon",
+        "vårt"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 135,
+      "sentence_sv": "Du besöker er",
+      "sentence_en": "You visit you",
+      "options": [
+        "er",
+        "Jag",
+        "vår"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 136,
+      "sentence_sv": "Det är hans vän",
+      "sentence_en": "It is his friend",
+      "options": [
+        "hans",
+        "henne",
+        "Vi"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 137,
+      "sentence_sv": "Han hittar mig",
+      "sentence_en": "He find me",
+      "options": [
+        "mig",
+        "Du",
+        "dina"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 138,
+      "sentence_sv": "Det är deras bok",
+      "sentence_en": "It is their book",
+      "options": [
+        "deras",
+        "henne",
+        "Hon"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 139,
+      "sentence_sv": "Det är mina väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "mina",
+        "mig",
+        "De"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 140,
+      "sentence_sv": "Det är våra idé",
+      "sentence_en": "It is our idea",
+      "options": [
+        "våra",
+        "oss",
+        "Du"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 141,
+      "sentence_sv": "Det är hans väg",
+      "sentence_en": "It is his way",
+      "options": [
+        "hans",
+        "oss",
+        "Ni"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 142,
+      "sentence_sv": "Det är deras bok",
+      "sentence_en": "It is their book",
+      "options": [
+        "deras",
+        "honom",
+        "Jag"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 143,
+      "sentence_sv": "Han glömmer barn",
+      "sentence_en": "He forget the child",
+      "options": [
+        "Han",
+        "oss",
+        "din"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 144,
+      "sentence_sv": "Jag hittar dig",
+      "sentence_en": "I find you",
+      "options": [
+        "dig",
+        "Han",
+        "vår"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 145,
+      "sentence_sv": "Man hittar idé",
+      "sentence_en": "One / People find the idea",
+      "options": [
+        "Man",
+        "dig",
+        "dina"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 146,
+      "sentence_sv": "Det är mitt vän",
+      "sentence_en": "It is my friend",
+      "options": [
+        "mitt",
+        "henne",
+        "Hon"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 147,
+      "sentence_sv": "Vi träffar henne",
+      "sentence_en": "We meet her",
+      "options": [
+        "henne",
+        "Han",
+        "hans"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 148,
+      "sentence_sv": "Man tar med telefon",
+      "sentence_en": "One / People bring the phone",
+      "options": [
+        "Man",
+        "honom",
+        "vårt"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 149,
+      "sentence_sv": "Det är våra vän",
+      "sentence_en": "It is our friend",
+      "options": [
+        "våra",
+        "henne",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 150,
+      "sentence_sv": "Vi ringer honom",
+      "sentence_en": "We call him",
+      "options": [
+        "honom",
+        "Man",
+        "hans"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 151,
+      "sentence_sv": "Det är min telefon",
+      "sentence_en": "It is my phone",
+      "options": [
+        "min",
+        "oss",
+        "Hon"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 152,
+      "sentence_sv": "Man hjälper telefon",
+      "sentence_en": "One / People help the phone",
+      "options": [
+        "Man",
+        "oss",
+        "våra"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 153,
+      "sentence_sv": "Det är våra barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "våra",
+        "dig",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 154,
+      "sentence_sv": "De ser oss",
+      "sentence_en": "They see us",
+      "options": [
+        "oss",
+        "De",
+        "hennes"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 155,
+      "sentence_sv": "Det är min nycklar",
+      "sentence_en": "It is my keys",
+      "options": [
+        "min",
+        "oss",
+        "Man"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 156,
+      "sentence_sv": "Vi ser jobb",
+      "sentence_en": "We see the job",
+      "options": [
+        "Vi",
+        "dig",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 157,
+      "sentence_sv": "Det är hennes jobb",
+      "sentence_en": "It is her job",
+      "options": [
+        "hennes",
+        "oss",
+        "Ni"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 158,
+      "sentence_sv": "Vi tar med jobb",
+      "sentence_en": "We bring the job",
+      "options": [
+        "Vi",
+        "oss",
+        "hans"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 159,
+      "sentence_sv": "Vi ser henne",
+      "sentence_en": "We see her",
+      "options": [
+        "henne",
+        "Man",
+        "dina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 160,
+      "sentence_sv": "Hon besöker er",
+      "sentence_en": "She visit you",
+      "options": [
+        "er",
+        "Vi",
+        "våra"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 161,
+      "sentence_sv": "Det är ditt nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "ditt",
+        "er",
+        "De"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 162,
+      "sentence_sv": "Hon glömmer honom",
+      "sentence_en": "She forget him",
+      "options": [
+        "honom",
+        "Hon",
+        "vårt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 163,
+      "sentence_sv": "Det är deras hus",
+      "sentence_en": "It is their house",
+      "options": [
+        "deras",
+        "dem",
+        "Hon"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 164,
+      "sentence_sv": "Det är deras bok",
+      "sentence_en": "It is their book",
+      "options": [
+        "deras",
+        "dig",
+        "Hon"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 165,
+      "sentence_sv": "Han hjälper bil",
+      "sentence_en": "He help the car",
+      "options": [
+        "Han",
+        "er",
+        "din"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 166,
+      "sentence_sv": "De hjälper er",
+      "sentence_en": "They help you",
+      "options": [
+        "er",
+        "Ni",
+        "min"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 167,
+      "sentence_sv": "Jag tar med dem",
+      "sentence_en": "I bring them",
+      "options": [
+        "dem",
+        "Ni",
+        "hans"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 168,
+      "sentence_sv": "De glömmer bil",
+      "sentence_en": "They forget the car",
+      "options": [
+        "De",
+        "henne",
+        "våra"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 169,
+      "sentence_sv": "Ni ser honom",
+      "sentence_en": "You (pl) see him",
+      "options": [
+        "honom",
+        "Ni",
+        "mitt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 170,
+      "sentence_sv": "Du hjälper er",
+      "sentence_en": "You help you",
+      "options": [
+        "er",
+        "De",
+        "våra"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 171,
+      "sentence_sv": "Det är vår hus",
+      "sentence_en": "It is our house",
+      "options": [
+        "vår",
+        "dig",
+        "De"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 172,
+      "sentence_sv": "De ringer hus",
+      "sentence_en": "They call the house",
+      "options": [
+        "De",
+        "oss",
+        "ditt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 173,
+      "sentence_sv": "De ringer dem",
+      "sentence_en": "They call them",
+      "options": [
+        "dem",
+        "Du",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 174,
+      "sentence_sv": "Man hittar telefon",
+      "sentence_en": "One / People find the phone",
+      "options": [
+        "Man",
+        "henne",
+        "vårt"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 175,
+      "sentence_sv": "Hon hjälper idé",
+      "sentence_en": "She help the idea",
+      "options": [
+        "Hon",
+        "mig",
+        "mitt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 176,
+      "sentence_sv": "Du glömmer er",
+      "sentence_en": "You forget you",
+      "options": [
+        "er",
+        "Ni",
+        "din"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 177,
+      "sentence_sv": "De ringer dig",
+      "sentence_en": "They call you",
+      "options": [
+        "dig",
+        "Du",
+        "min"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 178,
+      "sentence_sv": "Det är dina nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "dina",
+        "dig",
+        "Vi"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 179,
+      "sentence_sv": "Det är dina nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "dina",
+        "oss",
+        "Du"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 180,
+      "sentence_sv": "Du förklarar er",
+      "sentence_en": "You explain you",
+      "options": [
+        "er",
+        "Hon",
+        "ditt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 181,
+      "sentence_sv": "Det är mina hus",
+      "sentence_en": "It is my house",
+      "options": [
+        "mina",
+        "honom",
+        "Jag"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 182,
+      "sentence_sv": "Ni älskar dig",
+      "sentence_en": "You (pl) love you",
+      "options": [
+        "dig",
+        "Du",
+        "deras"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 183,
+      "sentence_sv": "Det är ditt telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "ditt",
+        "dig",
+        "Jag"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 184,
+      "sentence_sv": "Hon hittar barn",
+      "sentence_en": "She find the child",
+      "options": [
+        "Hon",
+        "dem",
+        "hennes"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 185,
+      "sentence_sv": "Hon förklarar dem",
+      "sentence_en": "She explain them",
+      "options": [
+        "dem",
+        "Du",
+        "mina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 186,
+      "sentence_sv": "Jag ringer vän",
+      "sentence_en": "I call the friend",
+      "options": [
+        "Jag",
+        "henne",
+        "min"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 187,
+      "sentence_sv": "De ringer oss",
+      "sentence_en": "They call us",
+      "options": [
+        "oss",
+        "Vi",
+        "mina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 188,
+      "sentence_sv": "Man älskar vän",
+      "sentence_en": "One / People love the friend",
+      "options": [
+        "Man",
+        "mig",
+        "hans"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 189,
+      "sentence_sv": "Vi tar med er",
+      "sentence_en": "We bring you",
+      "options": [
+        "er",
+        "Jag",
+        "ditt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 190,
+      "sentence_sv": "Jag förklarar telefon",
+      "sentence_en": "I explain the phone",
+      "options": [
+        "Jag",
+        "dig",
+        "deras"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 191,
+      "sentence_sv": "Det är min bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "min",
+        "oss",
+        "Han"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 192,
+      "sentence_sv": "Du hjälper väg",
+      "sentence_en": "You help the way",
+      "options": [
+        "Du",
+        "oss",
+        "deras"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 193,
+      "sentence_sv": "Hon besöker dig",
+      "sentence_en": "She visit you",
+      "options": [
+        "dig",
+        "Vi",
+        "deras"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 194,
+      "sentence_sv": "Vi hittar bil",
+      "sentence_en": "We find the car",
+      "options": [
+        "Vi",
+        "oss",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 195,
+      "sentence_sv": "Det är vårt idé",
+      "sentence_en": "It is our idea",
+      "options": [
+        "vårt",
+        "dem",
+        "Vi"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 196,
+      "sentence_sv": "Han tar med er",
+      "sentence_en": "He bring you",
+      "options": [
+        "er",
+        "Vi",
+        "vårt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 197,
+      "sentence_sv": "Jag hittar nycklar",
+      "sentence_en": "I find the keys",
+      "options": [
+        "Jag",
+        "honom",
+        "deras"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 198,
+      "sentence_sv": "Det är dina telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "dina",
+        "henne",
+        "De"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 199,
+      "sentence_sv": "Det är hennes bil",
+      "sentence_en": "It is her car",
+      "options": [
+        "hennes",
+        "honom",
+        "Ni"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 200,
+      "sentence_sv": "Man tar med vän",
+      "sentence_en": "One / People bring the friend",
+      "options": [
+        "Man",
+        "henne",
+        "din"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 201,
+      "sentence_sv": "Det är dina barn",
+      "sentence_en": "It is your child",
+      "options": [
+        "dina",
+        "mig",
+        "Du"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 202,
+      "sentence_sv": "Jag ringer telefon",
+      "sentence_en": "I call the phone",
+      "options": [
+        "Jag",
+        "oss",
+        "min"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 203,
+      "sentence_sv": "Jag ringer hus",
+      "sentence_en": "I call the house",
+      "options": [
+        "Jag",
+        "dig",
+        "deras"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 204,
+      "sentence_sv": "Vi träffar vän",
+      "sentence_en": "We meet the friend",
+      "options": [
+        "Vi",
+        "dig",
+        "min"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 205,
+      "sentence_sv": "De besöker telefon",
+      "sentence_en": "They visit the phone",
+      "options": [
+        "De",
+        "mig",
+        "vår"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 206,
+      "sentence_sv": "Du ser er",
+      "sentence_en": "You see you",
+      "options": [
+        "er",
+        "Vi",
+        "ditt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 207,
+      "sentence_sv": "Det är dina telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "dina",
+        "er",
+        "Ni"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 208,
+      "sentence_sv": "De hittar telefon",
+      "sentence_en": "They find the phone",
+      "options": [
+        "De",
+        "oss",
+        "deras"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 209,
+      "sentence_sv": "Det är hennes telefon",
+      "sentence_en": "It is her phone",
+      "options": [
+        "hennes",
+        "honom",
+        "Jag"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 210,
+      "sentence_sv": "Det är vår telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "vår",
+        "dem",
+        "Han"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 211,
+      "sentence_sv": "Jag förklarar oss",
+      "sentence_en": "I explain us",
+      "options": [
+        "oss",
+        "Hon",
+        "mitt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 212,
+      "sentence_sv": "De hittar vän",
+      "sentence_en": "They find the friend",
+      "options": [
+        "De",
+        "er",
+        "vårt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 213,
+      "sentence_sv": "Han hjälper er",
+      "sentence_en": "He help you",
+      "options": [
+        "er",
+        "Hon",
+        "mina"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 214,
+      "sentence_sv": "Vi förklarar oss",
+      "sentence_en": "We explain us",
+      "options": [
+        "oss",
+        "Han",
+        "dina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 215,
+      "sentence_sv": "Vi träffar mig",
+      "sentence_en": "We meet me",
+      "options": [
+        "mig",
+        "Hon",
+        "våra"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 216,
+      "sentence_sv": "Vi älskar bil",
+      "sentence_en": "We love the car",
+      "options": [
+        "Vi",
+        "er",
+        "dina"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 217,
+      "sentence_sv": "Det är din idé",
+      "sentence_en": "It is your idea",
+      "options": [
+        "din",
+        "dem",
+        "Han"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 218,
+      "sentence_sv": "Hon glömmer väg",
+      "sentence_en": "She forget the way",
+      "options": [
+        "Hon",
+        "oss",
+        "dina"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 219,
+      "sentence_sv": "Han älskar honom",
+      "sentence_en": "He love him",
+      "options": [
+        "honom",
+        "Jag",
+        "mina"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 220,
+      "sentence_sv": "Ni ringer oss",
+      "sentence_en": "You (pl) call us",
+      "options": [
+        "oss",
+        "Vi",
+        "dina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 221,
+      "sentence_sv": "Det är vårt bil",
+      "sentence_en": "It is our car",
+      "options": [
+        "vårt",
+        "dig",
+        "De"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 222,
+      "sentence_sv": "Det är min barn",
+      "sentence_en": "It is my child",
+      "options": [
+        "min",
+        "mig",
+        "Hon"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 223,
+      "sentence_sv": "Jag träffar barn",
+      "sentence_en": "I meet the child",
+      "options": [
+        "Jag",
+        "henne",
+        "vårt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 224,
+      "sentence_sv": "Vi hittar telefon",
+      "sentence_en": "We find the phone",
+      "options": [
+        "Vi",
+        "honom",
+        "mina"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 225,
+      "sentence_sv": "Ni glömmer oss",
+      "sentence_en": "You (pl) forget us",
+      "options": [
+        "oss",
+        "Ni",
+        "hans"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 226,
+      "sentence_sv": "Du älskar jobb",
+      "sentence_en": "You love the job",
+      "options": [
+        "Du",
+        "dig",
+        "hans"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 227,
+      "sentence_sv": "Han förklarar mig",
+      "sentence_en": "He explain me",
+      "options": [
+        "mig",
+        "De",
+        "vårt"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 228,
+      "sentence_sv": "Det är ditt vän",
+      "sentence_en": "It is your friend",
+      "options": [
+        "ditt",
+        "henne",
+        "Ni"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 229,
+      "sentence_sv": "Det är deras hus",
+      "sentence_en": "It is their house",
+      "options": [
+        "deras",
+        "dem",
+        "Du"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 230,
+      "sentence_sv": "Man ser nycklar",
+      "sentence_en": "One / People see the keys",
+      "options": [
+        "Man",
+        "dem",
+        "ditt"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 231,
+      "sentence_sv": "Man hittar jobb",
+      "sentence_en": "One / People find the job",
+      "options": [
+        "Man",
+        "er",
+        "din"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 232,
+      "sentence_sv": "Hon tar med bil",
+      "sentence_en": "She bring the car",
+      "options": [
+        "Hon",
+        "dig",
+        "dina"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 233,
+      "sentence_sv": "Ni ringer dig",
+      "sentence_en": "You (pl) call you",
+      "options": [
+        "dig",
+        "Du",
+        "ditt"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 234,
+      "sentence_sv": "Ni förklarar henne",
+      "sentence_en": "You (pl) explain her",
+      "options": [
+        "henne",
+        "Han",
+        "mina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 235,
+      "sentence_sv": "Ni glömmer er",
+      "sentence_en": "You (pl) forget you",
+      "options": [
+        "er",
+        "Vi",
+        "mitt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 236,
+      "sentence_sv": "De hittar mig",
+      "sentence_en": "They find me",
+      "options": [
+        "mig",
+        "Han",
+        "deras"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 237,
+      "sentence_sv": "Ni träffar honom",
+      "sentence_en": "You (pl) meet him",
+      "options": [
+        "honom",
+        "De",
+        "våra"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 238,
+      "sentence_sv": "De förklarar nycklar",
+      "sentence_en": "They explain the keys",
+      "options": [
+        "De",
+        "oss",
+        "våra"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 239,
+      "sentence_sv": "Han ringer dem",
+      "sentence_en": "He call them",
+      "options": [
+        "dem",
+        "Han",
+        "mitt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 240,
+      "sentence_sv": "Ni älskar dem",
+      "sentence_en": "You (pl) love them",
+      "options": [
+        "dem",
+        "De",
+        "mina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 241,
+      "sentence_sv": "Han besöker väg",
+      "sentence_en": "He visit the way",
+      "options": [
+        "Han",
+        "oss",
+        "min"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 242,
+      "sentence_sv": "Hon ringer oss",
+      "sentence_en": "She call us",
+      "options": [
+        "oss",
+        "Ni",
+        "deras"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 243,
+      "sentence_sv": "Hon hjälper nycklar",
+      "sentence_en": "She help the keys",
+      "options": [
+        "Hon",
+        "henne",
+        "dina"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 244,
+      "sentence_sv": "Ni älskar dem",
+      "sentence_en": "You (pl) love them",
+      "options": [
+        "dem",
+        "Man",
+        "mitt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 245,
+      "sentence_sv": "Ni hjälper honom",
+      "sentence_en": "You (pl) help him",
+      "options": [
+        "honom",
+        "Jag",
+        "mitt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 246,
+      "sentence_sv": "Ni glömmer oss",
+      "sentence_en": "You (pl) forget us",
+      "options": [
+        "oss",
+        "Man",
+        "vårt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 247,
+      "sentence_sv": "Ni tar med oss",
+      "sentence_en": "You (pl) bring us",
+      "options": [
+        "oss",
+        "Vi",
+        "din"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 248,
+      "sentence_sv": "De förklarar mig",
+      "sentence_en": "They explain me",
+      "options": [
+        "mig",
+        "Ni",
+        "hans"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 249,
+      "sentence_sv": "Vi glömmer telefon",
+      "sentence_en": "We forget the phone",
+      "options": [
+        "Vi",
+        "mig",
+        "hennes"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 250,
+      "sentence_sv": "Jag förklarar dem",
+      "sentence_en": "I explain them",
+      "options": [
+        "dem",
+        "Hon",
+        "mina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 251,
+      "sentence_sv": "Det är din nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "din",
+        "oss",
+        "Jag"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 252,
+      "sentence_sv": "Det är mina nycklar",
+      "sentence_en": "It is my keys",
+      "options": [
+        "mina",
+        "honom",
+        "Man"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 253,
+      "sentence_sv": "Han hittar er",
+      "sentence_en": "He find you",
+      "options": [
+        "er",
+        "Han",
+        "deras"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 254,
+      "sentence_sv": "Han besöker hus",
+      "sentence_en": "He visit the house",
+      "options": [
+        "Han",
+        "er",
+        "min"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 255,
+      "sentence_sv": "Han förklarar henne",
+      "sentence_en": "He explain her",
+      "options": [
+        "henne",
+        "De",
+        "din"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 256,
+      "sentence_sv": "Vi glömmer dem",
+      "sentence_en": "We forget them",
+      "options": [
+        "dem",
+        "Ni",
+        "deras"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 257,
+      "sentence_sv": "De besöker dig",
+      "sentence_en": "They visit you",
+      "options": [
+        "dig",
+        "Hon",
+        "vår"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 258,
+      "sentence_sv": "Vi ringer jobb",
+      "sentence_en": "We call the job",
+      "options": [
+        "Vi",
+        "henne",
+        "min"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 259,
+      "sentence_sv": "Ni ringer barn",
+      "sentence_en": "You (pl) call the child",
+      "options": [
+        "Ni",
+        "dem",
+        "dina"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 260,
+      "sentence_sv": "Du hjälper mig",
+      "sentence_en": "You help me",
+      "options": [
+        "mig",
+        "Jag",
+        "deras"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 261,
+      "sentence_sv": "Hon besöker telefon",
+      "sentence_en": "She visit the phone",
+      "options": [
+        "Hon",
+        "mig",
+        "din"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 262,
+      "sentence_sv": "Du hittar mig",
+      "sentence_en": "You find me",
+      "options": [
+        "mig",
+        "De",
+        "hans"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 263,
+      "sentence_sv": "Ni ser idé",
+      "sentence_en": "You (pl) see the idea",
+      "options": [
+        "Ni",
+        "er",
+        "ditt"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 264,
+      "sentence_sv": "Hon älskar oss",
+      "sentence_en": "She love us",
+      "options": [
+        "oss",
+        "Man",
+        "ditt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 265,
+      "sentence_sv": "Du ser er",
+      "sentence_en": "You see you",
+      "options": [
+        "er",
+        "Ni",
+        "ditt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 266,
+      "sentence_sv": "Du ringer oss",
+      "sentence_en": "You call us",
+      "options": [
+        "oss",
+        "De",
+        "våra"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 267,
+      "sentence_sv": "Du glömmer mig",
+      "sentence_en": "You forget me",
+      "options": [
+        "mig",
+        "De",
+        "mina"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 268,
+      "sentence_sv": "Vi glömmer mig",
+      "sentence_en": "We forget me",
+      "options": [
+        "mig",
+        "Han",
+        "hans"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 269,
+      "sentence_sv": "Hon ringer väg",
+      "sentence_en": "She call the way",
+      "options": [
+        "Hon",
+        "henne",
+        "vårt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 270,
+      "sentence_sv": "Jag besöker bok",
+      "sentence_en": "I visit the book",
+      "options": [
+        "Jag",
+        "er",
+        "min"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 271,
+      "sentence_sv": "Det är vårt nycklar",
+      "sentence_en": "It is our keys",
+      "options": [
+        "vårt",
+        "dem",
+        "Du"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 272,
+      "sentence_sv": "Ni hjälper dig",
+      "sentence_en": "You (pl) help you",
+      "options": [
+        "dig",
+        "Han",
+        "mina"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 273,
+      "sentence_sv": "Det är hans bok",
+      "sentence_en": "It is his book",
+      "options": [
+        "hans",
+        "henne",
+        "Vi"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 274,
+      "sentence_sv": "Du tar med oss",
+      "sentence_en": "You bring us",
+      "options": [
+        "oss",
+        "Hon",
+        "din"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 275,
+      "sentence_sv": "Jag ringer henne",
+      "sentence_en": "I call her",
+      "options": [
+        "henne",
+        "Hon",
+        "hennes"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 276,
+      "sentence_sv": "Vi älskar honom",
+      "sentence_en": "We love him",
+      "options": [
+        "honom",
+        "Jag",
+        "dina"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 277,
+      "sentence_sv": "Jag ser vän",
+      "sentence_en": "I see the friend",
+      "options": [
+        "Jag",
+        "dem",
+        "hans"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 278,
+      "sentence_sv": "Jag besöker henne",
+      "sentence_en": "I visit her",
+      "options": [
+        "henne",
+        "Hon",
+        "deras"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 279,
+      "sentence_sv": "Vi hittar väg",
+      "sentence_en": "We find the way",
+      "options": [
+        "Vi",
+        "honom",
+        "dina"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 280,
+      "sentence_sv": "Hon tar med oss",
+      "sentence_en": "She bring us",
+      "options": [
+        "oss",
+        "Han",
+        "min"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 281,
+      "sentence_sv": "Det är hennes jobb",
+      "sentence_en": "It is her job",
+      "options": [
+        "hennes",
+        "dem",
+        "Hon"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 282,
+      "sentence_sv": "Hon ringer dem",
+      "sentence_en": "She call them",
+      "options": [
+        "dem",
+        "Vi",
+        "ditt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 283,
+      "sentence_sv": "Det är hennes bok",
+      "sentence_en": "It is her book",
+      "options": [
+        "hennes",
+        "dem",
+        "Du"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 284,
+      "sentence_sv": "Det är mitt nycklar",
+      "sentence_en": "It is my keys",
+      "options": [
+        "mitt",
+        "mig",
+        "Han"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 285,
+      "sentence_sv": "Det är ditt barn",
+      "sentence_en": "It is your child",
+      "options": [
+        "ditt",
+        "er",
+        "Du"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 286,
+      "sentence_sv": "Det är deras bil",
+      "sentence_en": "It is their car",
+      "options": [
+        "deras",
+        "mig",
+        "Du"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 287,
+      "sentence_sv": "Man glömmer jobb",
+      "sentence_en": "One / People forget the job",
+      "options": [
+        "Man",
+        "dig",
+        "deras"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 288,
+      "sentence_sv": "Det är vårt barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "vårt",
+        "dig",
+        "Han"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 289,
+      "sentence_sv": "Det är mitt barn",
+      "sentence_en": "It is my child",
+      "options": [
+        "mitt",
+        "dem",
+        "Hon"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 290,
+      "sentence_sv": "Man glömmer idé",
+      "sentence_en": "One / People forget the idea",
+      "options": [
+        "Man",
+        "honom",
+        "hans"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 291,
+      "sentence_sv": "Det är ditt hus",
+      "sentence_en": "It is your house",
+      "options": [
+        "ditt",
+        "er",
+        "Han"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 292,
+      "sentence_sv": "De besöker barn",
+      "sentence_en": "They visit the child",
+      "options": [
+        "De",
+        "er",
+        "mina"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 293,
+      "sentence_sv": "Vi hjälper hus",
+      "sentence_en": "We help the house",
+      "options": [
+        "Vi",
+        "mig",
+        "mina"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 294,
+      "sentence_sv": "Det är vårt telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "vårt",
+        "oss",
+        "Han"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 295,
+      "sentence_sv": "Jag hjälper honom",
+      "sentence_en": "I help him",
+      "options": [
+        "honom",
+        "Hon",
+        "mitt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 296,
+      "sentence_sv": "Det är ditt väg",
+      "sentence_en": "It is your way",
+      "options": [
+        "ditt",
+        "dig",
+        "Man"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 297,
+      "sentence_sv": "Jag hittar bil",
+      "sentence_en": "I find the car",
+      "options": [
+        "Jag",
+        "dem",
+        "hennes"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 298,
+      "sentence_sv": "Det är min bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "min",
+        "mig",
+        "Jag"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 299,
+      "sentence_sv": "Du ringer honom",
+      "sentence_en": "You call him",
+      "options": [
+        "honom",
+        "Ni",
+        "dina"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 300,
+      "sentence_sv": "Man förklarar barn",
+      "sentence_en": "One / People explain the child",
+      "options": [
+        "Man",
+        "er",
+        "din"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 301,
+      "sentence_sv": "Det är hans jobb",
+      "sentence_en": "It is his job",
+      "options": [
+        "hans",
+        "henne",
+        "Man"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 302,
+      "sentence_sv": "Hon besöker barn",
+      "sentence_en": "She visit the child",
+      "options": [
+        "Hon",
+        "dem",
+        "ditt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 303,
+      "sentence_sv": "Han träffar barn",
+      "sentence_en": "He meet the child",
+      "options": [
+        "Han",
+        "honom",
+        "dina"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 304,
+      "sentence_sv": "Det är våra telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "våra",
+        "honom",
+        "Vi"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 305,
+      "sentence_sv": "Han träffar hus",
+      "sentence_en": "He meet the house",
+      "options": [
+        "Han",
+        "honom",
+        "våra"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 306,
+      "sentence_sv": "Det är min jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "min",
+        "dem",
+        "Jag"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 307,
+      "sentence_sv": "Hon tar med väg",
+      "sentence_en": "She bring the way",
+      "options": [
+        "Hon",
+        "dem",
+        "ditt"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 308,
+      "sentence_sv": "Hon tar med vän",
+      "sentence_en": "She bring the friend",
+      "options": [
+        "Hon",
+        "henne",
+        "vår"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 309,
+      "sentence_sv": "Jag besöker nycklar",
+      "sentence_en": "I visit the keys",
+      "options": [
+        "Jag",
+        "dig",
+        "mina"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 310,
+      "sentence_sv": "Vi hjälper honom",
+      "sentence_en": "We help him",
+      "options": [
+        "honom",
+        "Du",
+        "vår"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 311,
+      "sentence_sv": "Det är deras bok",
+      "sentence_en": "It is their book",
+      "options": [
+        "deras",
+        "dig",
+        "Vi"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 312,
+      "sentence_sv": "Han tar med oss",
+      "sentence_en": "He bring us",
+      "options": [
+        "oss",
+        "Jag",
+        "hans"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 313,
+      "sentence_sv": "De hittar henne",
+      "sentence_en": "They find her",
+      "options": [
+        "henne",
+        "Han",
+        "mitt"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 314,
+      "sentence_sv": "De förklarar idé",
+      "sentence_en": "They explain the idea",
+      "options": [
+        "De",
+        "honom",
+        "mitt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 315,
+      "sentence_sv": "Det är din bok",
+      "sentence_en": "It is your book",
+      "options": [
+        "din",
+        "henne",
+        "Vi"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 316,
+      "sentence_sv": "Jag tar med telefon",
+      "sentence_en": "I bring the phone",
+      "options": [
+        "Jag",
+        "henne",
+        "hennes"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 317,
+      "sentence_sv": "De ser bok",
+      "sentence_en": "They see the book",
+      "options": [
+        "De",
+        "oss",
+        "vår"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 318,
+      "sentence_sv": "Ni besöker bil",
+      "sentence_en": "You (pl) visit the car",
+      "options": [
+        "Ni",
+        "er",
+        "våra"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 319,
+      "sentence_sv": "Jag förklarar hus",
+      "sentence_en": "I explain the house",
+      "options": [
+        "Jag",
+        "er",
+        "vårt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 320,
+      "sentence_sv": "Han glömmer dem",
+      "sentence_en": "He forget them",
+      "options": [
+        "dem",
+        "Man",
+        "vårt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 321,
+      "sentence_sv": "Det är ditt bil",
+      "sentence_en": "It is your car",
+      "options": [
+        "ditt",
+        "henne",
+        "Man"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 322,
+      "sentence_sv": "Vi ser vän",
+      "sentence_en": "We see the friend",
+      "options": [
+        "Vi",
+        "er",
+        "vårt"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 323,
+      "sentence_sv": "Det är din nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "din",
+        "mig",
+        "Han"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 324,
+      "sentence_sv": "Han förklarar jobb",
+      "sentence_en": "He explain the job",
+      "options": [
+        "Han",
+        "dig",
+        "dina"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 325,
+      "sentence_sv": "Jag älskar väg",
+      "sentence_en": "I love the way",
+      "options": [
+        "Jag",
+        "er",
+        "hennes"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 326,
+      "sentence_sv": "Vi förklarar hus",
+      "sentence_en": "We explain the house",
+      "options": [
+        "Vi",
+        "er",
+        "din"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 327,
+      "sentence_sv": "Det är min vän",
+      "sentence_en": "It is my friend",
+      "options": [
+        "min",
+        "honom",
+        "Ni"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 328,
+      "sentence_sv": "Det är mitt bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "mitt",
+        "mig",
+        "Du"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 329,
+      "sentence_sv": "Ni ser oss",
+      "sentence_en": "You (pl) see us",
+      "options": [
+        "oss",
+        "Man",
+        "dina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 330,
+      "sentence_sv": "De träffar honom",
+      "sentence_en": "They meet him",
+      "options": [
+        "honom",
+        "Vi",
+        "ditt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 331,
+      "sentence_sv": "Det är hennes jobb",
+      "sentence_en": "It is her job",
+      "options": [
+        "hennes",
+        "henne",
+        "Man"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 332,
+      "sentence_sv": "Ni ringer oss",
+      "sentence_en": "You (pl) call us",
+      "options": [
+        "oss",
+        "Hon",
+        "hans"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 333,
+      "sentence_sv": "Det är dina jobb",
+      "sentence_en": "It is your job",
+      "options": [
+        "dina",
+        "mig",
+        "Vi"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 334,
+      "sentence_sv": "Man besöker bok",
+      "sentence_en": "One / People visit the book",
+      "options": [
+        "Man",
+        "er",
+        "deras"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 335,
+      "sentence_sv": "Man hittar vän",
+      "sentence_en": "One / People find the friend",
+      "options": [
+        "Man",
+        "dem",
+        "våra"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 336,
+      "sentence_sv": "Han glömmer mig",
+      "sentence_en": "He forget me",
+      "options": [
+        "mig",
+        "Hon",
+        "ditt"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 337,
+      "sentence_sv": "Ni hittar nycklar",
+      "sentence_en": "You (pl) find the keys",
+      "options": [
+        "Ni",
+        "oss",
+        "vår"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 338,
+      "sentence_sv": "Det är min telefon",
+      "sentence_en": "It is my phone",
+      "options": [
+        "min",
+        "honom",
+        "Ni"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 339,
+      "sentence_sv": "Det är vårt telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "vårt",
+        "dem",
+        "Ni"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 340,
+      "sentence_sv": "Ni besöker oss",
+      "sentence_en": "You (pl) visit us",
+      "options": [
+        "oss",
+        "Han",
+        "hans"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 341,
+      "sentence_sv": "Vi hittar barn",
+      "sentence_en": "We find the child",
+      "options": [
+        "Vi",
+        "henne",
+        "deras"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 342,
+      "sentence_sv": "Det är mina idé",
+      "sentence_en": "It is my idea",
+      "options": [
+        "mina",
+        "dig",
+        "Vi"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 343,
+      "sentence_sv": "Du glömmer dig",
+      "sentence_en": "You forget you",
+      "options": [
+        "dig",
+        "Hon",
+        "hans"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 344,
+      "sentence_sv": "Det är vårt barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "vårt",
+        "oss",
+        "Hon"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 345,
+      "sentence_sv": "Det är hennes vän",
+      "sentence_en": "It is her friend",
+      "options": [
+        "hennes",
+        "honom",
+        "Hon"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 346,
+      "sentence_sv": "Han ringer dig",
+      "sentence_en": "He call you",
+      "options": [
+        "dig",
+        "Han",
+        "ditt"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 347,
+      "sentence_sv": "Det är våra telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "våra",
+        "dem",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 348,
+      "sentence_sv": "Det är mina bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "mina",
+        "henne",
+        "De"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 349,
+      "sentence_sv": "Det är mina jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "mina",
+        "oss",
+        "Man"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 350,
+      "sentence_sv": "Ni hittar mig",
+      "sentence_en": "You (pl) find me",
+      "options": [
+        "mig",
+        "Hon",
+        "min"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 351,
+      "sentence_sv": "Vi tar med dem",
+      "sentence_en": "We bring them",
+      "options": [
+        "dem",
+        "Du",
+        "vår"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 352,
+      "sentence_sv": "De träffar oss",
+      "sentence_en": "They meet us",
+      "options": [
+        "oss",
+        "De",
+        "mitt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 353,
+      "sentence_sv": "Det är deras bil",
+      "sentence_en": "It is their car",
+      "options": [
+        "deras",
+        "honom",
+        "Du"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 354,
+      "sentence_sv": "Du tar med barn",
+      "sentence_en": "You bring the child",
+      "options": [
+        "Du",
+        "honom",
+        "dina"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 355,
+      "sentence_sv": "Det är vårt hus",
+      "sentence_en": "It is our house",
+      "options": [
+        "vårt",
+        "dig",
+        "Hon"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 356,
+      "sentence_sv": "Han besöker mig",
+      "sentence_en": "He visit me",
+      "options": [
+        "mig",
+        "Du",
+        "min"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 357,
+      "sentence_sv": "Han besöker jobb",
+      "sentence_en": "He visit the job",
+      "options": [
+        "Han",
+        "dem",
+        "ditt"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 358,
+      "sentence_sv": "Vi hittar idé",
+      "sentence_en": "We find the idea",
+      "options": [
+        "Vi",
+        "mig",
+        "hans"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 359,
+      "sentence_sv": "Det är min hus",
+      "sentence_en": "It is my house",
+      "options": [
+        "min",
+        "honom",
+        "De"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 360,
+      "sentence_sv": "Det är din hus",
+      "sentence_en": "It is your house",
+      "options": [
+        "din",
+        "dig",
+        "De"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 361,
+      "sentence_sv": "Jag tar med dig",
+      "sentence_en": "I bring you",
+      "options": [
+        "dig",
+        "Man",
+        "vår"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 362,
+      "sentence_sv": "Jag ringer hus",
+      "sentence_en": "I call the house",
+      "options": [
+        "Jag",
+        "dig",
+        "dina"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 363,
+      "sentence_sv": "Jag träffar bil",
+      "sentence_en": "I meet the car",
+      "options": [
+        "Jag",
+        "dem",
+        "vår"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 364,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "oss",
+        "Du"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 365,
+      "sentence_sv": "Vi förklarar nycklar",
+      "sentence_en": "We explain the keys",
+      "options": [
+        "Vi",
+        "oss",
+        "vår"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 366,
+      "sentence_sv": "Det är mina nycklar",
+      "sentence_en": "It is my keys",
+      "options": [
+        "mina",
+        "dem",
+        "De"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 367,
+      "sentence_sv": "Det är din väg",
+      "sentence_en": "It is your way",
+      "options": [
+        "din",
+        "dem",
+        "De"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 368,
+      "sentence_sv": "De älskar nycklar",
+      "sentence_en": "They love the keys",
+      "options": [
+        "De",
+        "dig",
+        "vårt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 369,
+      "sentence_sv": "Vi besöker er",
+      "sentence_en": "We visit you",
+      "options": [
+        "er",
+        "Jag",
+        "hennes"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 370,
+      "sentence_sv": "Du hittar mig",
+      "sentence_en": "You find me",
+      "options": [
+        "mig",
+        "Vi",
+        "hennes"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 371,
+      "sentence_sv": "Du hittar dem",
+      "sentence_en": "You find them",
+      "options": [
+        "dem",
+        "Du",
+        "min"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 372,
+      "sentence_sv": "Han besöker bil",
+      "sentence_en": "He visit the car",
+      "options": [
+        "Han",
+        "mig",
+        "våra"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 373,
+      "sentence_sv": "Hon träffar honom",
+      "sentence_en": "She meet him",
+      "options": [
+        "honom",
+        "Han",
+        "våra"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 374,
+      "sentence_sv": "Det är mina vän",
+      "sentence_en": "It is my friend",
+      "options": [
+        "mina",
+        "henne",
+        "Vi"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 375,
+      "sentence_sv": "Du förklarar dem",
+      "sentence_en": "You explain them",
+      "options": [
+        "dem",
+        "De",
+        "våra"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 376,
+      "sentence_sv": "Det är ditt hus",
+      "sentence_en": "It is your house",
+      "options": [
+        "ditt",
+        "honom",
+        "Han"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 377,
+      "sentence_sv": "Jag ser jobb",
+      "sentence_en": "I see the job",
+      "options": [
+        "Jag",
+        "oss",
+        "vårt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 378,
+      "sentence_sv": "Hon hjälper dig",
+      "sentence_en": "She help you",
+      "options": [
+        "dig",
+        "Ni",
+        "mina"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 379,
+      "sentence_sv": "Vi ringer väg",
+      "sentence_en": "We call the way",
+      "options": [
+        "Vi",
+        "er",
+        "din"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 380,
+      "sentence_sv": "Det är mitt väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "mitt",
+        "mig",
+        "Ni"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 381,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "dem",
+        "Hon"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 382,
+      "sentence_sv": "Det är din telefon",
+      "sentence_en": "It is your phone",
+      "options": [
+        "din",
+        "dig",
+        "Man"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 383,
+      "sentence_sv": "Han hittar henne",
+      "sentence_en": "He find her",
+      "options": [
+        "henne",
+        "Vi",
+        "mina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 384,
+      "sentence_sv": "Det är deras jobb",
+      "sentence_en": "It is their job",
+      "options": [
+        "deras",
+        "henne",
+        "Vi"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 385,
+      "sentence_sv": "Det är mitt jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "mitt",
+        "mig",
+        "Vi"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 386,
+      "sentence_sv": "Det är mitt väg",
+      "sentence_en": "It is my way",
+      "options": [
+        "mitt",
+        "dig",
+        "Vi"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 387,
+      "sentence_sv": "Det är mitt idé",
+      "sentence_en": "It is my idea",
+      "options": [
+        "mitt",
+        "oss",
+        "Du"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 388,
+      "sentence_sv": "De ser hus",
+      "sentence_en": "They see the house",
+      "options": [
+        "De",
+        "dig",
+        "hans"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 389,
+      "sentence_sv": "Det är hans väg",
+      "sentence_en": "It is his way",
+      "options": [
+        "hans",
+        "honom",
+        "Jag"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 390,
+      "sentence_sv": "Du träffar väg",
+      "sentence_en": "You meet the way",
+      "options": [
+        "Du",
+        "er",
+        "mina"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 391,
+      "sentence_sv": "Hon förklarar henne",
+      "sentence_en": "She explain her",
+      "options": [
+        "henne",
+        "Hon",
+        "deras"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 392,
+      "sentence_sv": "Vi träffar dem",
+      "sentence_en": "We meet them",
+      "options": [
+        "dem",
+        "Jag",
+        "vårt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 393,
+      "sentence_sv": "Det är min bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "min",
+        "mig",
+        "Du"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 394,
+      "sentence_sv": "Hon hittar väg",
+      "sentence_en": "She find the way",
+      "options": [
+        "Hon",
+        "mig",
+        "min"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 395,
+      "sentence_sv": "Det är hennes nycklar",
+      "sentence_en": "It is her keys",
+      "options": [
+        "hennes",
+        "honom",
+        "Du"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 396,
+      "sentence_sv": "Han hjälper jobb",
+      "sentence_en": "He help the job",
+      "options": [
+        "Han",
+        "dig",
+        "vårt"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 397,
+      "sentence_sv": "Det är hans bil",
+      "sentence_en": "It is his car",
+      "options": [
+        "hans",
+        "oss",
+        "Han"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 398,
+      "sentence_sv": "De hittar dig",
+      "sentence_en": "They find you",
+      "options": [
+        "dig",
+        "Han",
+        "dina"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 399,
+      "sentence_sv": "Det är mina bil",
+      "sentence_en": "It is my car",
+      "options": [
+        "mina",
+        "dem",
+        "De"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 400,
+      "sentence_sv": "Det är ditt barn",
+      "sentence_en": "It is your child",
+      "options": [
+        "ditt",
+        "honom",
+        "Jag"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 401,
+      "sentence_sv": "Ni tar med jobb",
+      "sentence_en": "You (pl) bring the job",
+      "options": [
+        "Ni",
+        "henne",
+        "mina"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 402,
+      "sentence_sv": "Det är deras jobb",
+      "sentence_en": "It is their job",
+      "options": [
+        "deras",
+        "honom",
+        "Vi"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 403,
+      "sentence_sv": "Du förklarar dig",
+      "sentence_en": "You explain you",
+      "options": [
+        "dig",
+        "Du",
+        "deras"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 404,
+      "sentence_sv": "Du hjälper mig",
+      "sentence_en": "You help me",
+      "options": [
+        "mig",
+        "Du",
+        "deras"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 405,
+      "sentence_sv": "Det är våra idé",
+      "sentence_en": "It is our idea",
+      "options": [
+        "våra",
+        "dem",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 406,
+      "sentence_sv": "Det är hans nycklar",
+      "sentence_en": "It is his keys",
+      "options": [
+        "hans",
+        "henne",
+        "Du"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 407,
+      "sentence_sv": "Det är din bok",
+      "sentence_en": "It is your book",
+      "options": [
+        "din",
+        "mig",
+        "Han"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 408,
+      "sentence_sv": "Det är hennes bok",
+      "sentence_en": "It is her book",
+      "options": [
+        "hennes",
+        "dem",
+        "De"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 409,
+      "sentence_sv": "Du ser oss",
+      "sentence_en": "You see us",
+      "options": [
+        "oss",
+        "Han",
+        "mina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 410,
+      "sentence_sv": "Vi hittar nycklar",
+      "sentence_en": "We find the keys",
+      "options": [
+        "Vi",
+        "dem",
+        "våra"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 411,
+      "sentence_sv": "Vi ringer henne",
+      "sentence_en": "We call her",
+      "options": [
+        "henne",
+        "Jag",
+        "hans"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 412,
+      "sentence_sv": "Man hjälper barn",
+      "sentence_en": "One / People help the child",
+      "options": [
+        "Man",
+        "mig",
+        "hennes"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 413,
+      "sentence_sv": "De tar med mig",
+      "sentence_en": "They bring me",
+      "options": [
+        "mig",
+        "Han",
+        "min"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 414,
+      "sentence_sv": "Jag besöker bil",
+      "sentence_en": "I visit the car",
+      "options": [
+        "Jag",
+        "henne",
+        "ditt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 415,
+      "sentence_sv": "Det är hans nycklar",
+      "sentence_en": "It is his keys",
+      "options": [
+        "hans",
+        "oss",
+        "Han"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 416,
+      "sentence_sv": "Ni ser henne",
+      "sentence_en": "You (pl) see her",
+      "options": [
+        "henne",
+        "Ni",
+        "deras"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 417,
+      "sentence_sv": "Jag hjälper nycklar",
+      "sentence_en": "I help the keys",
+      "options": [
+        "Jag",
+        "er",
+        "vårt"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 418,
+      "sentence_sv": "Det är hans nycklar",
+      "sentence_en": "It is his keys",
+      "options": [
+        "hans",
+        "mig",
+        "Ni"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 419,
+      "sentence_sv": "Det är ditt bil",
+      "sentence_en": "It is your car",
+      "options": [
+        "ditt",
+        "mig",
+        "De"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 420,
+      "sentence_sv": "Det är din jobb",
+      "sentence_en": "It is your job",
+      "options": [
+        "din",
+        "dem",
+        "Vi"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 421,
+      "sentence_sv": "Det är vår telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "vår",
+        "dig",
+        "Han"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 422,
+      "sentence_sv": "Ni ringer nycklar",
+      "sentence_en": "You (pl) call the keys",
+      "options": [
+        "Ni",
+        "oss",
+        "deras"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 423,
+      "sentence_sv": "Jag besöker bil",
+      "sentence_en": "I visit the car",
+      "options": [
+        "Jag",
+        "oss",
+        "våra"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 424,
+      "sentence_sv": "Ni ser oss",
+      "sentence_en": "You (pl) see us",
+      "options": [
+        "oss",
+        "Hon",
+        "din"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 425,
+      "sentence_sv": "Han besöker oss",
+      "sentence_en": "He visit us",
+      "options": [
+        "oss",
+        "Hon",
+        "min"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 426,
+      "sentence_sv": "Du tar med honom",
+      "sentence_en": "You bring him",
+      "options": [
+        "honom",
+        "Jag",
+        "hennes"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 427,
+      "sentence_sv": "Han hjälper henne",
+      "sentence_en": "He help her",
+      "options": [
+        "henne",
+        "Han",
+        "dina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 428,
+      "sentence_sv": "Du träffar dem",
+      "sentence_en": "You meet them",
+      "options": [
+        "dem",
+        "Jag",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 429,
+      "sentence_sv": "Jag förklarar henne",
+      "sentence_en": "I explain her",
+      "options": [
+        "henne",
+        "Jag",
+        "mina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 430,
+      "sentence_sv": "Jag hjälper väg",
+      "sentence_en": "I help the way",
+      "options": [
+        "Jag",
+        "honom",
+        "våra"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 431,
+      "sentence_sv": "Du glömmer oss",
+      "sentence_en": "You forget us",
+      "options": [
+        "oss",
+        "Vi",
+        "dina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 432,
+      "sentence_sv": "Ni förklarar hus",
+      "sentence_en": "You (pl) explain the house",
+      "options": [
+        "Ni",
+        "oss",
+        "våra"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 433,
+      "sentence_sv": "Han älskar mig",
+      "sentence_en": "He love me",
+      "options": [
+        "mig",
+        "Man",
+        "din"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 434,
+      "sentence_sv": "Vi ser oss",
+      "sentence_en": "We see us",
+      "options": [
+        "oss",
+        "Hon",
+        "vårt"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 435,
+      "sentence_sv": "Det är min hus",
+      "sentence_en": "It is my house",
+      "options": [
+        "min",
+        "dig",
+        "De"
+      ],
+      "answer": "min",
+      "rule": "min is the possessive pronoun for 'my' (singular en-word)"
+    },
+    {
+      "id": 436,
+      "sentence_sv": "Du älskar henne",
+      "sentence_en": "You love her",
+      "options": [
+        "henne",
+        "Ni",
+        "hans"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 437,
+      "sentence_sv": "Han ringer dem",
+      "sentence_en": "He call them",
+      "options": [
+        "dem",
+        "Man",
+        "hennes"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 438,
+      "sentence_sv": "Du förklarar väg",
+      "sentence_en": "You explain the way",
+      "options": [
+        "Du",
+        "henne",
+        "vår"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 439,
+      "sentence_sv": "Vi förklarar väg",
+      "sentence_en": "We explain the way",
+      "options": [
+        "Vi",
+        "henne",
+        "vår"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 440,
+      "sentence_sv": "Jag ringer honom",
+      "sentence_en": "I call him",
+      "options": [
+        "honom",
+        "Hon",
+        "din"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 441,
+      "sentence_sv": "Jag förklarar er",
+      "sentence_en": "I explain you",
+      "options": [
+        "er",
+        "De",
+        "mina"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 442,
+      "sentence_sv": "Det är våra hus",
+      "sentence_en": "It is our house",
+      "options": [
+        "våra",
+        "dig",
+        "De"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 443,
+      "sentence_sv": "Det är hans jobb",
+      "sentence_en": "It is his job",
+      "options": [
+        "hans",
+        "dig",
+        "Man"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 444,
+      "sentence_sv": "Man glömmer väg",
+      "sentence_en": "One / People forget the way",
+      "options": [
+        "Man",
+        "er",
+        "deras"
+      ],
+      "answer": "Man",
+      "rule": "Man is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 445,
+      "sentence_sv": "Det är dina bil",
+      "sentence_en": "It is your car",
+      "options": [
+        "dina",
+        "henne",
+        "Han"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 446,
+      "sentence_sv": "Det är hans jobb",
+      "sentence_en": "It is his job",
+      "options": [
+        "hans",
+        "er",
+        "Hon"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 447,
+      "sentence_sv": "Det är ditt väg",
+      "sentence_en": "It is your way",
+      "options": [
+        "ditt",
+        "dem",
+        "Hon"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 448,
+      "sentence_sv": "Det är våra barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "våra",
+        "dig",
+        "Man"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 449,
+      "sentence_sv": "Han älskar bok",
+      "sentence_en": "He love the book",
+      "options": [
+        "Han",
+        "oss",
+        "din"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 450,
+      "sentence_sv": "Det är mitt bok",
+      "sentence_en": "It is my book",
+      "options": [
+        "mitt",
+        "henne",
+        "Vi"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 451,
+      "sentence_sv": "Det är vår väg",
+      "sentence_en": "It is our way",
+      "options": [
+        "vår",
+        "dem",
+        "Hon"
+      ],
+      "answer": "vår",
+      "rule": "vår is the possessive pronoun for 'our' (singular en-word)"
+    },
+    {
+      "id": 452,
+      "sentence_sv": "Vi glömmer dem",
+      "sentence_en": "We forget them",
+      "options": [
+        "dem",
+        "Du",
+        "hennes"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 453,
+      "sentence_sv": "Jag förklarar honom",
+      "sentence_en": "I explain him",
+      "options": [
+        "honom",
+        "Du",
+        "mina"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 454,
+      "sentence_sv": "Han besöker barn",
+      "sentence_en": "He visit the child",
+      "options": [
+        "Han",
+        "mig",
+        "vårt"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 455,
+      "sentence_sv": "Ni förklarar henne",
+      "sentence_en": "You (pl) explain her",
+      "options": [
+        "henne",
+        "Hon",
+        "vårt"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 456,
+      "sentence_sv": "Det är deras hus",
+      "sentence_en": "It is their house",
+      "options": [
+        "deras",
+        "dem",
+        "Han"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 457,
+      "sentence_sv": "Du glömmer hus",
+      "sentence_en": "You forget the house",
+      "options": [
+        "Du",
+        "henne",
+        "våra"
+      ],
+      "answer": "Du",
+      "rule": "Du is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 458,
+      "sentence_sv": "Det är hans bil",
+      "sentence_en": "It is his car",
+      "options": [
+        "hans",
+        "henne",
+        "Hon"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 459,
+      "sentence_sv": "Det är mina vän",
+      "sentence_en": "It is my friend",
+      "options": [
+        "mina",
+        "mig",
+        "Ni"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 460,
+      "sentence_sv": "Vi glömmer dem",
+      "sentence_en": "We forget them",
+      "options": [
+        "dem",
+        "Jag",
+        "mina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 461,
+      "sentence_sv": "Det är mitt jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "mitt",
+        "honom",
+        "Vi"
+      ],
+      "answer": "mitt",
+      "rule": "mitt is the possessive pronoun for 'my' (singular ett-word)"
+    },
+    {
+      "id": 462,
+      "sentence_sv": "Hon hjälper vän",
+      "sentence_en": "She help the friend",
+      "options": [
+        "Hon",
+        "mig",
+        "min"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 463,
+      "sentence_sv": "Vi hittar jobb",
+      "sentence_en": "We find the job",
+      "options": [
+        "Vi",
+        "honom",
+        "våra"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 464,
+      "sentence_sv": "Ni ringer henne",
+      "sentence_en": "You (pl) call her",
+      "options": [
+        "henne",
+        "Vi",
+        "hennes"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 465,
+      "sentence_sv": "Hon hittar dem",
+      "sentence_en": "She find them",
+      "options": [
+        "dem",
+        "Man",
+        "dina"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 466,
+      "sentence_sv": "Hon älskar hus",
+      "sentence_en": "She love the house",
+      "options": [
+        "Hon",
+        "henne",
+        "våra"
+      ],
+      "answer": "Hon",
+      "rule": "Hon is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 467,
+      "sentence_sv": "Det är hans idé",
+      "sentence_en": "It is his idea",
+      "options": [
+        "hans",
+        "mig",
+        "Du"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 468,
+      "sentence_sv": "Det är hennes idé",
+      "sentence_en": "It is her idea",
+      "options": [
+        "hennes",
+        "dig",
+        "Han"
+      ],
+      "answer": "hennes",
+      "rule": "hennes is the possessive pronoun for 'her'"
+    },
+    {
+      "id": 469,
+      "sentence_sv": "Det är mina hus",
+      "sentence_en": "It is my house",
+      "options": [
+        "mina",
+        "oss",
+        "Du"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 470,
+      "sentence_sv": "Vi glömmer vän",
+      "sentence_en": "We forget the friend",
+      "options": [
+        "Vi",
+        "oss",
+        "hans"
+      ],
+      "answer": "Vi",
+      "rule": "Vi is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 471,
+      "sentence_sv": "Han glömmer henne",
+      "sentence_en": "He forget her",
+      "options": [
+        "henne",
+        "Ni",
+        "dina"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 472,
+      "sentence_sv": "Ni hjälper oss",
+      "sentence_en": "You (pl) help us",
+      "options": [
+        "oss",
+        "Han",
+        "dina"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 473,
+      "sentence_sv": "Ni tar med dem",
+      "sentence_en": "You (pl) bring them",
+      "options": [
+        "dem",
+        "Jag",
+        "din"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 474,
+      "sentence_sv": "De älskar bil",
+      "sentence_en": "They love the car",
+      "options": [
+        "De",
+        "dem",
+        "ditt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 475,
+      "sentence_sv": "Vi älskar er",
+      "sentence_en": "We love you",
+      "options": [
+        "er",
+        "Han",
+        "ditt"
+      ],
+      "answer": "er",
+      "rule": "er is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 476,
+      "sentence_sv": "Det är mina jobb",
+      "sentence_en": "It is my job",
+      "options": [
+        "mina",
+        "honom",
+        "Ni"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 477,
+      "sentence_sv": "Vi älskar oss",
+      "sentence_en": "We love us",
+      "options": [
+        "oss",
+        "Du",
+        "min"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 478,
+      "sentence_sv": "Det är mina idé",
+      "sentence_en": "It is my idea",
+      "options": [
+        "mina",
+        "dig",
+        "Jag"
+      ],
+      "answer": "mina",
+      "rule": "mina is the possessive pronoun for 'my' (plural)"
+    },
+    {
+      "id": 479,
+      "sentence_sv": "Jag ser mig",
+      "sentence_en": "I see me",
+      "options": [
+        "mig",
+        "Man",
+        "ditt"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 480,
+      "sentence_sv": "Det är din hus",
+      "sentence_en": "It is your house",
+      "options": [
+        "din",
+        "er",
+        "Jag"
+      ],
+      "answer": "din",
+      "rule": "din is the possessive pronoun for 'your' (singular en-word)"
+    },
+    {
+      "id": 481,
+      "sentence_sv": "Det är hans vän",
+      "sentence_en": "It is his friend",
+      "options": [
+        "hans",
+        "dig",
+        "Ni"
+      ],
+      "answer": "hans",
+      "rule": "hans is the possessive pronoun for 'his'"
+    },
+    {
+      "id": 482,
+      "sentence_sv": "Vi träffar mig",
+      "sentence_en": "We meet me",
+      "options": [
+        "mig",
+        "Jag",
+        "ditt"
+      ],
+      "answer": "mig",
+      "rule": "mig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 483,
+      "sentence_sv": "Hon ser henne",
+      "sentence_en": "She see her",
+      "options": [
+        "henne",
+        "Han",
+        "hennes"
+      ],
+      "answer": "henne",
+      "rule": "henne is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 484,
+      "sentence_sv": "Det är ditt nycklar",
+      "sentence_en": "It is your keys",
+      "options": [
+        "ditt",
+        "dem",
+        "Man"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 485,
+      "sentence_sv": "Det är våra telefon",
+      "sentence_en": "It is our phone",
+      "options": [
+        "våra",
+        "honom",
+        "Ni"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 486,
+      "sentence_sv": "Det är ditt bil",
+      "sentence_en": "It is your car",
+      "options": [
+        "ditt",
+        "er",
+        "Vi"
+      ],
+      "answer": "ditt",
+      "rule": "ditt is the possessive pronoun for 'your' (singular ett-word)"
+    },
+    {
+      "id": 487,
+      "sentence_sv": "Hon träffar honom",
+      "sentence_en": "She meet him",
+      "options": [
+        "honom",
+        "Han",
+        "mitt"
+      ],
+      "answer": "honom",
+      "rule": "honom is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 488,
+      "sentence_sv": "Du hittar dig",
+      "sentence_en": "You find you",
+      "options": [
+        "dig",
+        "Man",
+        "mitt"
+      ],
+      "answer": "dig",
+      "rule": "dig is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 489,
+      "sentence_sv": "Ni ringer dem",
+      "sentence_en": "You (pl) call them",
+      "options": [
+        "dem",
+        "Man",
+        "mitt"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 490,
+      "sentence_sv": "Det är vårt väg",
+      "sentence_en": "It is our way",
+      "options": [
+        "vårt",
+        "dem",
+        "Hon"
+      ],
+      "answer": "vårt",
+      "rule": "vårt is the possessive pronoun for 'our' (singular ett-word)"
+    },
+    {
+      "id": 491,
+      "sentence_sv": "Han förklarar bil",
+      "sentence_en": "He explain the car",
+      "options": [
+        "Han",
+        "dem",
+        "din"
+      ],
+      "answer": "Han",
+      "rule": "Han is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 492,
+      "sentence_sv": "Det är deras barn",
+      "sentence_en": "It is their child",
+      "options": [
+        "deras",
+        "henne",
+        "De"
+      ],
+      "answer": "deras",
+      "rule": "deras is the possessive pronoun for 'their'"
+    },
+    {
+      "id": 493,
+      "sentence_sv": "Det är våra barn",
+      "sentence_en": "It is our child",
+      "options": [
+        "våra",
+        "honom",
+        "Vi"
+      ],
+      "answer": "våra",
+      "rule": "våra is the possessive pronoun for 'our' (plural)"
+    },
+    {
+      "id": 494,
+      "sentence_sv": "Ni älskar nycklar",
+      "sentence_en": "You (pl) love the keys",
+      "options": [
+        "Ni",
+        "oss",
+        "ditt"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 495,
+      "sentence_sv": "Du älskar dem",
+      "sentence_en": "You love them",
+      "options": [
+        "dem",
+        "Han",
+        "deras"
+      ],
+      "answer": "dem",
+      "rule": "dem is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 496,
+      "sentence_sv": "Ni hittar bil",
+      "sentence_en": "You (pl) find the car",
+      "options": [
+        "Ni",
+        "honom",
+        "vårt"
+      ],
+      "answer": "Ni",
+      "rule": "Ni is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 497,
+      "sentence_sv": "Han förklarar oss",
+      "sentence_en": "He explain us",
+      "options": [
+        "oss",
+        "Jag",
+        "min"
+      ],
+      "answer": "oss",
+      "rule": "oss is an object pronoun (used as the object of the sentence)"
+    },
+    {
+      "id": 498,
+      "sentence_sv": "Det är dina hus",
+      "sentence_en": "It is your house",
+      "options": [
+        "dina",
+        "honom",
+        "Du"
+      ],
+      "answer": "dina",
+      "rule": "dina is the possessive pronoun for 'your' (plural)"
+    },
+    {
+      "id": 499,
+      "sentence_sv": "Jag förklarar bok",
+      "sentence_en": "I explain the book",
+      "options": [
+        "Jag",
+        "er",
+        "min"
+      ],
+      "answer": "Jag",
+      "rule": "Jag is a subject pronoun (used as the subject of the sentence)"
+    },
+    {
+      "id": 500,
+      "sentence_sv": "De hjälper jobb",
+      "sentence_en": "They help the job",
+      "options": [
+        "De",
+        "honom",
+        "ditt"
+      ],
+      "answer": "De",
+      "rule": "De is a subject pronoun (used as the subject of the sentence)"
+    }
+  ]
+}

@@ -1,0 +1,4206 @@
+{
+  "topic": "Adjective agreement (en / ett / plural / definite)",
+  "instruction": "Choose the correct adjective form.",
+  "exercises": [
+    {
+      "id": 1,
+      "sentence": "en ____ katt",
+      "baseAdjective": "svart",
+      "options": [
+        "svart",
+        "svartt",
+        "svarta"
+      ],
+      "answer": "svart",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a black cat"
+    },
+    {
+      "id": 2,
+      "sentence": "ett ____ hus",
+      "baseAdjective": "röd",
+      "options": [
+        "röd",
+        "rött",
+        "röda"
+      ],
+      "answer": "rött",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a red house"
+    },
+    {
+      "id": 3,
+      "sentence": "en ____ bil",
+      "baseAdjective": "blå",
+      "options": [
+        "blå",
+        "blått",
+        "blåa"
+      ],
+      "answer": "blå",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a blue car"
+    },
+    {
+      "id": 4,
+      "sentence": "ett ____ äpple",
+      "baseAdjective": "grön",
+      "options": [
+        "grön",
+        "grönt",
+        "gröna"
+      ],
+      "answer": "grönt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a green apple"
+    },
+    {
+      "id": 5,
+      "sentence": "en ____ hund",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a big dog"
+    },
+    {
+      "id": 6,
+      "sentence": "ett ____ rum",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a small room"
+    },
+    {
+      "id": 7,
+      "sentence": "två ____ katter",
+      "baseAdjective": "svart",
+      "options": [
+        "svart",
+        "svartt",
+        "svarta"
+      ],
+      "answer": "svarta",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two black cats"
+    },
+    {
+      "id": 8,
+      "sentence": "flera ____ hus",
+      "baseAdjective": "vit",
+      "options": [
+        "vit",
+        "vitt",
+        "vita"
+      ],
+      "answer": "vita",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several white house"
+    },
+    {
+      "id": 9,
+      "sentence": "många ____ bilar",
+      "baseAdjective": "röd",
+      "options": [
+        "röd",
+        "rött",
+        "röda"
+      ],
+      "answer": "röda",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many red cars"
+    },
+    {
+      "id": 10,
+      "sentence": "några ____ äpplen",
+      "baseAdjective": "grön",
+      "options": [
+        "grön",
+        "grönt",
+        "gröna"
+      ],
+      "answer": "gröna",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "some green apples"
+    },
+    {
+      "id": 11,
+      "sentence": "Den ____ katten sover",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammal",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "an old cat"
+    },
+    {
+      "id": 12,
+      "sentence": "Det ____ huset är fint",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The new house is nice"
+    },
+    {
+      "id": 13,
+      "sentence": "De ____ hundarna springer",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The big dogs"
+    },
+    {
+      "id": 14,
+      "sentence": "De ____ bilarna är dyra",
+      "baseAdjective": "blå",
+      "options": [
+        "blå",
+        "blått",
+        "blåa"
+      ],
+      "answer": "blåa",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The blue cars are expensive"
+    },
+    {
+      "id": 15,
+      "sentence": "Den ____ stolen är trasig",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Definite singular (special form)",
+      "level": 4,
+      "translation": "a small chair"
+    },
+    {
+      "id": 16,
+      "sentence": "Hon dricker ____ kaffe",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varmt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks warm kaffe"
+    },
+    {
+      "id": 17,
+      "sentence": "Vi badar i ____ vatten",
+      "baseAdjective": "kall",
+      "options": [
+        "kall",
+        "kallt",
+        "kalla"
+      ],
+      "answer": "kallt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks warm kaffe"
+    },
+    {
+      "id": 18,
+      "sentence": "Jag har en ____ jacka",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a new jacket"
+    },
+    {
+      "id": 19,
+      "sentence": "De ____ rummen är rena",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural (irregular adjective)",
+      "level": 4,
+      "translation": "The small rummen are clean"
+    },
+    {
+      "id": 20,
+      "sentence": "Det är en ____ dag",
+      "baseAdjective": "fin",
+      "options": [
+        "fin",
+        "fint",
+        "fina"
+      ],
+      "answer": "fin",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a nice dag"
+    },
+    {
+      "id": 21,
+      "sentence": "en ____ bok",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressant",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an interesting book"
+    },
+    {
+      "id": 22,
+      "sentence": "ett ____ ägg",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a big eggs"
+    },
+    {
+      "id": 23,
+      "sentence": "en ____ dörr",
+      "baseAdjective": "öppen",
+      "options": [
+        "öppen",
+        "öppet",
+        "öppna"
+      ],
+      "answer": "öppen",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an open door"
+    },
+    {
+      "id": 24,
+      "sentence": "ett ____ fönster",
+      "baseAdjective": "stängd",
+      "options": [
+        "stängd",
+        "stängt",
+        "stängda"
+      ],
+      "answer": "stängt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a closed windows"
+    },
+    {
+      "id": 25,
+      "sentence": "en ____ tröja",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varm",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a warm tröja"
+    },
+    {
+      "id": 26,
+      "sentence": "ett ____ bord",
+      "baseAdjective": "runt",
+      "options": [
+        "runt",
+        "runt",
+        "runda"
+      ],
+      "answer": "runt",
+      "rule": "Singular ett-word (same form)",
+      "level": 1,
+      "translation": "a round tables"
+    },
+    {
+      "id": 27,
+      "sentence": "en ____ cykel",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gul",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a yellow bicycle"
+    },
+    {
+      "id": 28,
+      "sentence": "ett ____ träd",
+      "baseAdjective": "hög",
+      "options": [
+        "hög",
+        "högt",
+        "höga"
+      ],
+      "answer": "högt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a tall träd"
+    },
+    {
+      "id": 29,
+      "sentence": "en ____ skola",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word (invariable)",
+      "level": 1,
+      "translation": "a good school"
+    },
+    {
+      "id": 30,
+      "sentence": "ett ____ problem",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a big problem"
+    },
+    {
+      "id": 31,
+      "sentence": "flera ____ böcker",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressanta",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several interesting books"
+    },
+    {
+      "id": 32,
+      "sentence": "många ____ ägg",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many big eggs"
+    },
+    {
+      "id": 33,
+      "sentence": "två ____ dörrar",
+      "baseAdjective": "öppen",
+      "options": [
+        "öppen",
+        "öppet",
+        "öppna"
+      ],
+      "answer": "öppna",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two open doors"
+    },
+    {
+      "id": 34,
+      "sentence": "några ____ fönster",
+      "baseAdjective": "stängd",
+      "options": [
+        "stängd",
+        "stängt",
+        "stängda"
+      ],
+      "answer": "stängda",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "some closed windows"
+    },
+    {
+      "id": 35,
+      "sentence": "flera ____ tröjor",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varma",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several warm tröjor"
+    },
+    {
+      "id": 36,
+      "sentence": "många ____ bord",
+      "baseAdjective": "runt",
+      "options": [
+        "runt",
+        "runt",
+        "runda"
+      ],
+      "answer": "runda",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many round tables"
+    },
+    {
+      "id": 37,
+      "sentence": "två ____ cyklar",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two yellow cyklar"
+    },
+    {
+      "id": 38,
+      "sentence": "flera ____ träd",
+      "baseAdjective": "hög",
+      "options": [
+        "hög",
+        "högt",
+        "höga"
+      ],
+      "answer": "höga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several tall träd"
+    },
+    {
+      "id": 39,
+      "sentence": "många ____ skolor",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Plural (invariable)",
+      "level": 2,
+      "translation": "many good skolor"
+    },
+    {
+      "id": 40,
+      "sentence": "några ____ problem",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "some big problem"
+    },
+    {
+      "id": 41,
+      "sentence": "Den ____ boken är rolig",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressant",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "an interesting book"
+    },
+    {
+      "id": 42,
+      "sentence": "Det ____ ägget är stort",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The big ägget is big"
+    },
+    {
+      "id": 43,
+      "sentence": "Den ____ dörren är öppen",
+      "baseAdjective": "öppen",
+      "options": [
+        "öppen",
+        "öppet",
+        "öppna"
+      ],
+      "answer": "öppna",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "an open door"
+    },
+    {
+      "id": 44,
+      "sentence": "Det ____ fönstret är stängt",
+      "baseAdjective": "stängd",
+      "options": [
+        "stängd",
+        "stängt",
+        "stängda"
+      ],
+      "answer": "stängda",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The closed window is"
+    },
+    {
+      "id": 45,
+      "sentence": "Den ____ tröjan är varm",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varm",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a warm tröjan"
+    },
+    {
+      "id": 46,
+      "sentence": "Det ____ bordet är runt",
+      "baseAdjective": "runt",
+      "options": [
+        "runt",
+        "runt",
+        "runda"
+      ],
+      "answer": "runda",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The round table is"
+    },
+    {
+      "id": 47,
+      "sentence": "Den ____ cykeln är gul",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a yellow cykeln"
+    },
+    {
+      "id": 48,
+      "sentence": "Det ____ trädet är högt",
+      "baseAdjective": "hög",
+      "options": [
+        "hög",
+        "högt",
+        "höga"
+      ],
+      "answer": "högt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The tall trädet is"
+    },
+    {
+      "id": 49,
+      "sentence": "Den ____ skolan är liten",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite form (invariable)",
+      "level": 3,
+      "translation": "The good school is small"
+    },
+    {
+      "id": 50,
+      "sentence": "Det ____ problemet behöver lösas",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The big problem"
+    },
+    {
+      "id": 51,
+      "sentence": "De ____ böckerna är intressanta",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressanta",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The interesting books are"
+    },
+    {
+      "id": 52,
+      "sentence": "De ____ äggen är stora",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The big äggen are big"
+    },
+    {
+      "id": 53,
+      "sentence": "De ____ dörrarna är öppna",
+      "baseAdjective": "öppen",
+      "options": [
+        "öppen",
+        "öppet",
+        "öppna"
+      ],
+      "answer": "öppna",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The open dörrarna are"
+    },
+    {
+      "id": 54,
+      "sentence": "De ____ fönstren är stängda",
+      "baseAdjective": "stängd",
+      "options": [
+        "stängd",
+        "stängt",
+        "stängda"
+      ],
+      "answer": "stängda",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The closed fönstren are"
+    },
+    {
+      "id": 55,
+      "sentence": "De ____ tröjorna är varma",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varma",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The warm tröjorna are"
+    },
+    {
+      "id": 56,
+      "sentence": "en ____ stol",
+      "baseAdjective": "bekväm",
+      "options": [
+        "bekväm",
+        "bekvämt",
+        "bekväma"
+      ],
+      "answer": "bekväm",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a comfortable chair"
+    },
+    {
+      "id": 57,
+      "sentence": "ett ____ badrum",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a big bathroom"
+    },
+    {
+      "id": 58,
+      "sentence": "en ____ kvinna",
+      "baseAdjective": "ung",
+      "options": [
+        "ung",
+        "ungt",
+        "unga"
+      ],
+      "answer": "ung",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an ung woman"
+    },
+    {
+      "id": 59,
+      "sentence": "ett ____ barn",
+      "baseAdjective": "glad",
+      "options": [
+        "glad",
+        "glatt",
+        "glada"
+      ],
+      "answer": "glatt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a happy children"
+    },
+    {
+      "id": 60,
+      "sentence": "en ____ man",
+      "baseAdjective": "rik",
+      "options": [
+        "rik",
+        "rikt",
+        "rika"
+      ],
+      "answer": "rik",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a wealthy man"
+    },
+    {
+      "id": 61,
+      "sentence": "ett ____ land",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a big land"
+    },
+    {
+      "id": 62,
+      "sentence": "en ____ stad",
+      "baseAdjective": "vacker",
+      "options": [
+        "vacker",
+        "vackert",
+        "vackra"
+      ],
+      "answer": "vacker",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a beautiful stad"
+    },
+    {
+      "id": 63,
+      "sentence": "ett ____ hem",
+      "baseAdjective": "trygg",
+      "options": [
+        "trygg",
+        "tryggt",
+        "trygga"
+      ],
+      "answer": "tryggt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a secure hem"
+    },
+    {
+      "id": 64,
+      "sentence": "en ____ mat",
+      "baseAdjective": "god",
+      "options": [
+        "god",
+        "gott",
+        "goda"
+      ],
+      "answer": "god",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a deliciou mat"
+    },
+    {
+      "id": 65,
+      "sentence": "ett ____ ämne",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svårt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a difficult subject"
+    },
+    {
+      "id": 66,
+      "sentence": "flera ____ stolar",
+      "baseAdjective": "bekväm",
+      "options": [
+        "bekväm",
+        "bekvämt",
+        "bekväma"
+      ],
+      "answer": "bekväma",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several comfortable chairs"
+    },
+    {
+      "id": 67,
+      "sentence": "många ____ badrum",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many big bathroom"
+    },
+    {
+      "id": 68,
+      "sentence": "två ____ kvinnor",
+      "baseAdjective": "ung",
+      "options": [
+        "ung",
+        "ungt",
+        "unga"
+      ],
+      "answer": "unga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two ung women"
+    },
+    {
+      "id": 69,
+      "sentence": "några ____ barn",
+      "baseAdjective": "glad",
+      "options": [
+        "glad",
+        "glatt",
+        "glada"
+      ],
+      "answer": "glada",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "some happy children"
+    },
+    {
+      "id": 70,
+      "sentence": "flera ____ män",
+      "baseAdjective": "rik",
+      "options": [
+        "rik",
+        "rikt",
+        "rika"
+      ],
+      "answer": "rika",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several wealthy men"
+    },
+    {
+      "id": 71,
+      "sentence": "många ____ länder",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many big länder"
+    },
+    {
+      "id": 72,
+      "sentence": "två ____ städer",
+      "baseAdjective": "vacker",
+      "options": [
+        "vacker",
+        "vackert",
+        "vackra"
+      ],
+      "answer": "vackra",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two beautiful städer"
+    },
+    {
+      "id": 73,
+      "sentence": "några ____ hem",
+      "baseAdjective": "trygg",
+      "options": [
+        "trygg",
+        "tryggt",
+        "trygga"
+      ],
+      "answer": "trygga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "some secure hem"
+    },
+    {
+      "id": 74,
+      "sentence": "flera ____ maträtter",
+      "baseAdjective": "god",
+      "options": [
+        "god",
+        "gott",
+        "goda"
+      ],
+      "answer": "goda",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "several delicious maträtter"
+    },
+    {
+      "id": 75,
+      "sentence": "många ____ ämnen",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svåra",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "many difficult ämnen"
+    },
+    {
+      "id": 76,
+      "sentence": "Den ____ stolen är bekväm",
+      "baseAdjective": "bekväm",
+      "options": [
+        "bekväm",
+        "bekvämt",
+        "bekväma"
+      ],
+      "answer": "bekväma",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a comfortable chair"
+    },
+    {
+      "id": 77,
+      "sentence": "Det ____ badrummet är stort",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The big bathroom is big"
+    },
+    {
+      "id": 78,
+      "sentence": "Den ____ kvinnan studerar medicin",
+      "baseAdjective": "ung",
+      "options": [
+        "ung",
+        "ungt",
+        "unga"
+      ],
+      "answer": "unga",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "an ung woman"
+    },
+    {
+      "id": 79,
+      "sentence": "Det ____ barnet leker ute",
+      "baseAdjective": "glad",
+      "options": [
+        "glad",
+        "glatt",
+        "glada"
+      ],
+      "answer": "glada",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The happy child"
+    },
+    {
+      "id": 80,
+      "sentence": "Den ____ mannen är ung",
+      "baseAdjective": "rik",
+      "options": [
+        "rik",
+        "rikt",
+        "rika"
+      ],
+      "answer": "rika",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The wealthy man is young"
+    },
+    {
+      "id": 81,
+      "sentence": "Det ____ landet är stort",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The big landet is big"
+    },
+    {
+      "id": 82,
+      "sentence": "Den ____ staden är vacker",
+      "baseAdjective": "vacker",
+      "options": [
+        "vacker",
+        "vackert",
+        "vackra"
+      ],
+      "answer": "vackra",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a beautiful staden"
+    },
+    {
+      "id": 83,
+      "sentence": "Det ____ hemmet är tryggt",
+      "baseAdjective": "trygg",
+      "options": [
+        "trygg",
+        "tryggt",
+        "trygga"
+      ],
+      "answer": "trygga",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The secure hemmet is"
+    },
+    {
+      "id": 84,
+      "sentence": "Den ____ maten är god",
+      "baseAdjective": "god",
+      "options": [
+        "god",
+        "gott",
+        "goda"
+      ],
+      "answer": "god",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a deliciou maten"
+    },
+    {
+      "id": 85,
+      "sentence": "Det ____ ämnet kräver studier",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svårt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The difficult ämnet"
+    },
+    {
+      "id": 86,
+      "sentence": "De ____ stolarna är bekväma",
+      "baseAdjective": "bekväm",
+      "options": [
+        "bekväm",
+        "bekvämt",
+        "bekväma"
+      ],
+      "answer": "bekväma",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The comfortable chairs are"
+    },
+    {
+      "id": 87,
+      "sentence": "De ____ badrummen är stora",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The big bathrooms are big"
+    },
+    {
+      "id": 88,
+      "sentence": "De ____ kvinnorna studerar medicin",
+      "baseAdjective": "ung",
+      "options": [
+        "ung",
+        "ungt",
+        "unga"
+      ],
+      "answer": "unga",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The ung women"
+    },
+    {
+      "id": 89,
+      "sentence": "De ____ barnen leker ute",
+      "baseAdjective": "glad",
+      "options": [
+        "glad",
+        "glatt",
+        "glada"
+      ],
+      "answer": "glada",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The happy barnen"
+    },
+    {
+      "id": 90,
+      "sentence": "De ____ männen är rika",
+      "baseAdjective": "rik",
+      "options": [
+        "rik",
+        "rikt",
+        "rika"
+      ],
+      "answer": "rika",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The wealthy men are"
+    },
+    {
+      "id": 91,
+      "sentence": "Den ____ flickan leker",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Definite singular (special form)",
+      "level": 4,
+      "translation": "a small girl"
+    },
+    {
+      "id": 92,
+      "sentence": "Den ____ pojken springer",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Definite singular (special form)",
+      "level": 4,
+      "translation": "a small boy"
+    },
+    {
+      "id": 93,
+      "sentence": "De ____ flickorna leker",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural (irregular adjective)",
+      "level": 4,
+      "translation": "The small girls"
+    },
+    {
+      "id": 94,
+      "sentence": "De ____ pojkarna springer",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural (irregular adjective)",
+      "level": 4,
+      "translation": "The small boys"
+    },
+    {
+      "id": 95,
+      "sentence": "Jag äter ____ bröd",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat old bröd"
+    },
+    {
+      "id": 96,
+      "sentence": "Hon köper ____ mjölk",
+      "baseAdjective": "färsk",
+      "options": [
+        "färsk",
+        "färskt",
+        "färska"
+      ],
+      "answer": "färskt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She buys a fresh mjölk"
+    },
+    {
+      "id": 97,
+      "sentence": "Vi dricker ____ te",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varmt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She buys a fresh mjölk"
+    },
+    {
+      "id": 98,
+      "sentence": "De äter ____ kött",
+      "baseAdjective": "kall",
+      "options": [
+        "kall",
+        "kallt",
+        "kalla"
+      ],
+      "answer": "kallt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "They eat several cold kött"
+    },
+    {
+      "id": 99,
+      "sentence": "Jag läser ____ tidning",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "They eat several cold kött"
+    },
+    {
+      "id": 100,
+      "sentence": "Det är ____ väder idag",
+      "baseAdjective": "fint",
+      "options": [
+        "fin",
+        "fint",
+        "fina"
+      ],
+      "answer": "fint",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "They eat several cold kött"
+    },
+    {
+      "id": 101,
+      "sentence": "en ____ tunnel",
+      "baseAdjective": "ful",
+      "options": [
+        "ful",
+        "fult",
+        "fula"
+      ],
+      "answer": "ful",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an ugly tunnel"
+    },
+    {
+      "id": 102,
+      "sentence": "ett ____ kapitel",
+      "baseAdjective": "lätt",
+      "options": [
+        "lätt",
+        "lätt",
+        "lätta"
+      ],
+      "answer": "lätt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "an easy chapter"
+    },
+    {
+      "id": 103,
+      "sentence": "De ____ stolarna",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The purple chairs"
+    },
+    {
+      "id": 104,
+      "sentence": "ett ____ djur",
+      "baseAdjective": "rosa",
+      "options": [
+        "rosa",
+        "rosa",
+        "rosa"
+      ],
+      "answer": "rosa",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a pink animals"
+    },
+    {
+      "id": 105,
+      "sentence": "De ____ bilarna",
+      "baseAdjective": "bred",
+      "options": [
+        "breda",
+        "bred",
+        "brett"
+      ],
+      "answer": "breda",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The wide cars"
+    },
+    {
+      "id": 106,
+      "sentence": "en ____ lampa",
+      "baseAdjective": "vit",
+      "options": [
+        "vit",
+        "vitt",
+        "vita"
+      ],
+      "answer": "vit",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a white lamp"
+    },
+    {
+      "id": 107,
+      "sentence": "en ____ äpple",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a big apple"
+    },
+    {
+      "id": 108,
+      "sentence": "en ____ park",
+      "baseAdjective": "arg",
+      "options": [
+        "arga",
+        "argt",
+        "arg"
+      ],
+      "answer": "arg",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an angry park"
+    },
+    {
+      "id": 110,
+      "sentence": "Den ____ stolen",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a small chair"
+    },
+    {
+      "id": 112,
+      "sentence": "De ____ böckerna",
+      "baseAdjective": "brun",
+      "options": [
+        "bruna",
+        "brun",
+        "brunt"
+      ],
+      "answer": "bruna",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The brown books"
+    },
+    {
+      "id": 113,
+      "sentence": "Den ____ katten",
+      "baseAdjective": "varm",
+      "options": [
+        "varm",
+        "varmt",
+        "varma"
+      ],
+      "answer": "varm",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a warm cat"
+    },
+    {
+      "id": 116,
+      "sentence": "ett ____ te",
+      "baseAdjective": "vit",
+      "options": [
+        "vita",
+        "vit",
+        "vitt"
+      ],
+      "answer": "vitt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a white te"
+    },
+    {
+      "id": 120,
+      "sentence": "en ____ vägg",
+      "baseAdjective": "gul",
+      "options": [
+        "gult",
+        "gul",
+        "gula"
+      ],
+      "answer": "gul",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a yellow wall"
+    },
+    {
+      "id": 121,
+      "sentence": "Det ____ äpplet",
+      "baseAdjective": "smutsig",
+      "options": [
+        "smutsig",
+        "smutsigt",
+        "smutsiga"
+      ],
+      "answer": "smutsiga",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The dirty apple"
+    },
+    {
+      "id": 123,
+      "sentence": "Det ____ problemet",
+      "baseAdjective": "snabb",
+      "options": [
+        "snabbt",
+        "snabba",
+        "snabb"
+      ],
+      "answer": "snabba",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The fast problem"
+    },
+    {
+      "id": 125,
+      "sentence": "Det ____ huset",
+      "baseAdjective": "ren",
+      "options": [
+        "rena",
+        "ren",
+        "rent"
+      ],
+      "answer": "rena",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The clean house"
+    },
+    {
+      "id": 126,
+      "sentence": "De ____ männen",
+      "baseAdjective": "högljudd",
+      "options": [
+        "högljudt",
+        "högljudda",
+        "högljudd"
+      ],
+      "answer": "högljudda",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The loud men"
+    },
+    {
+      "id": 127,
+      "sentence": "två ____ djur",
+      "baseAdjective": "snabb",
+      "options": [
+        "snabba",
+        "snabb",
+        "snabbt"
+      ],
+      "answer": "snabba",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two fast animals"
+    },
+    {
+      "id": 128,
+      "sentence": "en ____ telefon",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a small phone"
+    },
+    {
+      "id": 130,
+      "sentence": "en ____ kjol",
+      "baseAdjective": "ful",
+      "options": [
+        "fula",
+        "fult",
+        "ful"
+      ],
+      "answer": "ful",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an ugly skirt"
+    },
+    {
+      "id": 132,
+      "sentence": "Det ____ barnet",
+      "baseAdjective": "högljudd",
+      "options": [
+        "högljudt",
+        "högljudda",
+        "högljudd"
+      ],
+      "answer": "högljudda",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The loud child"
+    },
+    {
+      "id": 133,
+      "sentence": "två ____ ringar",
+      "baseAdjective": "nöjd",
+      "options": [
+        "nöjd",
+        "nöjt",
+        "nöjda"
+      ],
+      "answer": "nöjda",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two satisfied rings"
+    },
+    {
+      "id": 134,
+      "sentence": "två ____ problem",
+      "baseAdjective": "lätt",
+      "options": [
+        "lätt",
+        "lätt",
+        "lätta"
+      ],
+      "answer": "lätta",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two easy problem"
+    },
+    {
+      "id": 139,
+      "sentence": "ett ____ klimat",
+      "baseAdjective": "låg",
+      "options": [
+        "låg",
+        "lågt",
+        "låga"
+      ],
+      "answer": "lågt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a low klimat"
+    },
+    {
+      "id": 140,
+      "sentence": "Den ____ boken",
+      "baseAdjective": "ful",
+      "options": [
+        "ful",
+        "fula",
+        "fult"
+      ],
+      "answer": "fula",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "an ugly book"
+    },
+    {
+      "id": 141,
+      "sentence": "Den ____ bilen",
+      "baseAdjective": "smal",
+      "options": [
+        "smalt",
+        "smala",
+        "smal"
+      ],
+      "answer": "smala",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a narrow car"
+    },
+    {
+      "id": 144,
+      "sentence": "en ____ gata",
+      "baseAdjective": "vit",
+      "options": [
+        "vitt",
+        "vit",
+        "vita"
+      ],
+      "answer": "vit",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a white street"
+    },
+    {
+      "id": 146,
+      "sentence": "ett ____ svar",
+      "baseAdjective": "fel",
+      "options": [
+        "fel",
+        "fel",
+        "fel"
+      ],
+      "answer": "fel",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a wrong answer"
+    },
+    {
+      "id": 147,
+      "sentence": "en ____ hatt",
+      "baseAdjective": "smal",
+      "options": [
+        "smala",
+        "smalt",
+        "smal"
+      ],
+      "answer": "smal",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a narrow hat"
+    },
+    {
+      "id": 149,
+      "sentence": "ett ____ resultat",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a good result"
+    },
+    {
+      "id": 150,
+      "sentence": "två ____ stolar",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two small chairs"
+    },
+    {
+      "id": 155,
+      "sentence": "en ____ häst",
+      "baseAdjective": "fin",
+      "options": [
+        "fint",
+        "fina",
+        "fin"
+      ],
+      "answer": "fin",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a nice horse"
+    },
+    {
+      "id": 156,
+      "sentence": "två ____ fönster",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two small windows"
+    },
+    {
+      "id": 158,
+      "sentence": "två ____ resultat",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dåliga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two bad result"
+    },
+    {
+      "id": 159,
+      "sentence": "en ____ dator",
+      "baseAdjective": "ful",
+      "options": [
+        "fula",
+        "fult",
+        "ful"
+      ],
+      "answer": "ful",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an ugly computer"
+    },
+    {
+      "id": 161,
+      "sentence": "en ____ båt",
+      "baseAdjective": "snabb",
+      "options": [
+        "snabb",
+        "snabba",
+        "snabbt"
+      ],
+      "answer": "snabb",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a fast boat"
+    },
+    {
+      "id": 163,
+      "sentence": "De ____ hundarna",
+      "baseAdjective": "låg",
+      "options": [
+        "låg",
+        "lågt",
+        "låga"
+      ],
+      "answer": "låga",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The low dogs"
+    },
+    {
+      "id": 165,
+      "sentence": "en ____ brev",
+      "baseAdjective": "ren",
+      "options": [
+        "rena",
+        "rent",
+        "ren"
+      ],
+      "answer": "ren",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a clean letter"
+    },
+    {
+      "id": 167,
+      "sentence": "De ____ kvinnorna",
+      "baseAdjective": "bred",
+      "options": [
+        "brett",
+        "breda",
+        "bred"
+      ],
+      "answer": "breda",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The wide women"
+    },
+    {
+      "id": 168,
+      "sentence": "ett ____ sjö",
+      "baseAdjective": "långsam",
+      "options": [
+        "långsamma",
+        "långsamt",
+        "långsam"
+      ],
+      "answer": "långsamt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a slow sjö"
+    },
+    {
+      "id": 171,
+      "sentence": "Det ____ resultatet",
+      "baseAdjective": "lätt",
+      "options": [
+        "lätt",
+        "lätt",
+        "lätta"
+      ],
+      "answer": "lätt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The easy result"
+    },
+    {
+      "id": 172,
+      "sentence": "en ____ affär",
+      "baseAdjective": "kall",
+      "options": [
+        "kall",
+        "kalla",
+        "kallt"
+      ],
+      "answer": "kall",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a cold store"
+    },
+    {
+      "id": 173,
+      "sentence": "De ____ katterna",
+      "baseAdjective": "trött",
+      "options": [
+        "trött",
+        "trött",
+        "trötta"
+      ],
+      "answer": "trötta",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The tired cats"
+    },
+    {
+      "id": 177,
+      "sentence": "Den ____ kvinnan",
+      "baseAdjective": "kall",
+      "options": [
+        "kall",
+        "kallt",
+        "kalla"
+      ],
+      "answer": "kall",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a cold woman"
+    },
+    {
+      "id": 180,
+      "sentence": "en ____ jacka",
+      "baseAdjective": "tung",
+      "options": [
+        "tung",
+        "tunga",
+        "tungt"
+      ],
+      "answer": "tung",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a heavy jacket"
+    },
+    {
+      "id": 181,
+      "sentence": "Den ____ hunden",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a big dog"
+    },
+    {
+      "id": 184,
+      "sentence": "en ____ skog",
+      "baseAdjective": "ren",
+      "options": [
+        "ren",
+        "rena",
+        "rent"
+      ],
+      "answer": "ren",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a clean forest"
+    },
+    {
+      "id": 185,
+      "sentence": "Den ____ dörren",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svår",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a difficult door"
+    },
+    {
+      "id": 187,
+      "sentence": "ett ____ program",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a new program"
+    },
+    {
+      "id": 189,
+      "sentence": "en ____ klänning",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a small dress"
+    },
+    {
+      "id": 193,
+      "sentence": "ett ____ berg",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a small mountain"
+    },
+    {
+      "id": 195,
+      "sentence": "en ____ nyckel",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a small key"
+    },
+    {
+      "id": 198,
+      "sentence": "ett ____ system",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "an old system"
+    },
+    {
+      "id": 199,
+      "sentence": "en ____ fisk",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammal",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an old fish"
+    },
+    {
+      "id": 203,
+      "sentence": "Den ____ mannen",
+      "baseAdjective": "brun",
+      "options": [
+        "brunt",
+        "bruna",
+        "brun"
+      ],
+      "answer": "bruna",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a brown man"
+    },
+    {
+      "id": 207,
+      "sentence": "Det ____ rummet",
+      "baseAdjective": "vit",
+      "options": [
+        "vita",
+        "vit",
+        "vitt"
+      ],
+      "answer": "vita",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The white room"
+    },
+    {
+      "id": 213,
+      "sentence": "två ____ barn",
+      "baseAdjective": "vit",
+      "options": [
+        "vita",
+        "vitt",
+        "vit"
+      ],
+      "answer": "vita",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two white children"
+    },
+    {
+      "id": 217,
+      "sentence": "ett ____ väder",
+      "baseAdjective": "arg",
+      "options": [
+        "arg",
+        "argt",
+        "arga"
+      ],
+      "answer": "argt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "an angry väder"
+    },
+    {
+      "id": 218,
+      "sentence": "en ____ elev",
+      "baseAdjective": "snabb",
+      "options": [
+        "snabba",
+        "snabb",
+        "snabbt"
+      ],
+      "answer": "snabb",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a fast student"
+    },
+    {
+      "id": 220,
+      "sentence": "ett ____ vatten",
+      "baseAdjective": "rosa",
+      "options": [
+        "rosa",
+        "rosa",
+        "rosa"
+      ],
+      "answer": "rosa",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a pink vatten"
+    },
+    {
+      "id": 226,
+      "sentence": "två ____ bord",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two purple tables"
+    },
+    {
+      "id": 229,
+      "sentence": "ett ____ tak",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a small tak"
+    },
+    {
+      "id": 241,
+      "sentence": "ett ____ hav",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "brunt",
+        "bruna"
+      ],
+      "answer": "brunt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a brown hav"
+    },
+    {
+      "id": 245,
+      "sentence": "ett ____ fjäll",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a good fjäll"
+    },
+    {
+      "id": 247,
+      "sentence": "en ____ fågel",
+      "baseAdjective": "tyst",
+      "options": [
+        "tysta",
+        "tyst",
+        "tyst"
+      ],
+      "answer": "tyst",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a quiet bird"
+    },
+    {
+      "id": 248,
+      "sentence": "två ____ bilar",
+      "baseAdjective": "rosa",
+      "options": [
+        "rosa",
+        "rosa",
+        "rosa"
+      ],
+      "answer": "rosa",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two pink cars"
+    },
+    {
+      "id": 250,
+      "sentence": "ett ____ kaffe",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dåligt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a bad kaffe"
+    },
+    {
+      "id": 263,
+      "sentence": "en ____ tidning",
+      "baseAdjective": "gul",
+      "options": [
+        "gult",
+        "gul",
+        "gula"
+      ],
+      "answer": "gul",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a yellow newspaper"
+    },
+    {
+      "id": 266,
+      "sentence": "två ____ böcker",
+      "baseAdjective": "arg",
+      "options": [
+        "argt",
+        "arga",
+        "arg"
+      ],
+      "answer": "arga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two angry books"
+    },
+    {
+      "id": 267,
+      "sentence": "en ____ sjuksköterska",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dålig",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a bad nurse"
+    },
+    {
+      "id": 273,
+      "sentence": "en ____ klocka",
+      "baseAdjective": "nöjd",
+      "options": [
+        "nöjt",
+        "nöjda",
+        "nöjd"
+      ],
+      "answer": "nöjd",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a satisfied clock"
+    },
+    {
+      "id": 280,
+      "sentence": "ett ____ moment",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "an old moment"
+    },
+    {
+      "id": 282,
+      "sentence": "ett ____ golv",
+      "baseAdjective": "trött",
+      "options": [
+        "trött",
+        "trötta",
+        "trött"
+      ],
+      "answer": "trött",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "a tired golv"
+    },
+    {
+      "id": 286,
+      "sentence": "ett ____ projekt",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "an old project"
+    },
+    {
+      "id": 287,
+      "sentence": "en ____ berg",
+      "baseAdjective": "trött",
+      "options": [
+        "trötta",
+        "trött",
+        "trött"
+      ],
+      "answer": "trött",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "a tired mountain"
+    },
+    {
+      "id": 289,
+      "sentence": "en ____ pojke",
+      "baseAdjective": "arg",
+      "options": [
+        "arga",
+        "arg",
+        "argt"
+      ],
+      "answer": "arg",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "an angry boy"
+    },
+    {
+      "id": 298,
+      "sentence": "två ____ ägg",
+      "baseAdjective": "tung",
+      "options": [
+        "tung",
+        "tunga",
+        "tungt"
+      ],
+      "answer": "tunga",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two heavy eggs"
+    },
+    {
+      "id": 299,
+      "sentence": "två ____ hundar",
+      "baseAdjective": "fin",
+      "options": [
+        "fina",
+        "fint",
+        "fin"
+      ],
+      "answer": "fina",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "two nice dogs"
+    },
+    {
+      "id": 300,
+      "sentence": "Det ____ program är fint",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The old program is nice"
+    },
+    {
+      "id": 301,
+      "sentence": "Jag har en ____ fotografi",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a good photograph"
+    },
+    {
+      "id": 302,
+      "sentence": "De ____ ringar är stora",
+      "baseAdjective": "brun",
+      "options": [
+        "brunt",
+        "brun",
+        "bruna"
+      ],
+      "answer": "bruna",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The brown rings are big"
+    },
+    {
+      "id": 303,
+      "sentence": "Hon dricker ____ te",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks new tea"
+    },
+    {
+      "id": 304,
+      "sentence": "De ____ bord är stora",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The small tables are big"
+    },
+    {
+      "id": 305,
+      "sentence": "Jag har ett ____ moment",
+      "baseAdjective": "viktig",
+      "options": [
+        "viktig",
+        "viktigt",
+        "viktiga"
+      ],
+      "answer": "viktigt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have an important moment"
+    },
+    {
+      "id": 306,
+      "sentence": "Han köper ett ____ val",
+      "baseAdjective": "fin",
+      "options": [
+        "fin",
+        "fina",
+        "fint"
+      ],
+      "answer": "fint",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a nice val"
+    },
+    {
+      "id": 307,
+      "sentence": "Den ____ plan är fin",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The good plan is nice"
+    },
+    {
+      "id": 308,
+      "sentence": "De äter flera ____ äpplen",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gamla",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several old apples"
+    },
+    {
+      "id": 309,
+      "sentence": "Jag har en ____ kudde",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a small pillow"
+    },
+    {
+      "id": 310,
+      "sentence": "De ____ fönster är stora",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The good windows are big"
+    },
+    {
+      "id": 311,
+      "sentence": "Vi ser två ____ bord",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two purple tables"
+    },
+    {
+      "id": 312,
+      "sentence": "Jag äter ____ kött",
+      "baseAdjective": "intressant",
+      "options": [
+        "fint",
+        "fin",
+        "fina"
+      ],
+      "answer": "fint",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat intressant meat"
+    },
+    {
+      "id": 315,
+      "sentence": "Vi ser två ____ ringar",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "små",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two small rings"
+    },
+    {
+      "id": 316,
+      "sentence": "Det ____ projekt är fint",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The big project is nice"
+    },
+    {
+      "id": 317,
+      "sentence": "Vi ser två ____ böcker",
+      "baseAdjective": "gul",
+      "options": [
+        "gult",
+        "gul",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two yellow books"
+    },
+    {
+      "id": 318,
+      "sentence": "Hon dricker ____ te",
+      "baseAdjective": "brun",
+      "options": [
+        "bruna",
+        "brun",
+        "brunt"
+      ],
+      "answer": "brunt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks brun tea"
+    },
+    {
+      "id": 319,
+      "sentence": "Det ____ problem är fint",
+      "baseAdjective": "lätt",
+      "options": [
+        "lätt",
+        "lätt",
+        "lätta"
+      ],
+      "answer": "lätt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The easy problem is nice"
+    },
+    {
+      "id": 320,
+      "sentence": "Den ____ bild är bra",
+      "baseAdjective": "gul",
+      "options": [
+        "gult",
+        "gula",
+        "gul"
+      ],
+      "answer": "gula",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a yellow picture"
+    },
+    {
+      "id": 321,
+      "sentence": "Det ____ äpple är fint",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The small apple is nice"
+    },
+    {
+      "id": 322,
+      "sentence": "Jag har en ____ hatt",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a big hat"
+    },
+    {
+      "id": 323,
+      "sentence": "Hon köper en ____ idé",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a good idea"
+    },
+    {
+      "id": 324,
+      "sentence": "Den ____ lösning är stor",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The good solution is big"
+    },
+    {
+      "id": 325,
+      "sentence": "Jag har ett ____ resultat",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dåligt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a bad result"
+    },
+    {
+      "id": 326,
+      "sentence": "Han köper ett ____ ämne",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svårt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a difficult subject"
+    },
+    {
+      "id": 327,
+      "sentence": "Jag har ett ____ projekt",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have an old project"
+    },
+    {
+      "id": 328,
+      "sentence": "Den ____ paraply är bra",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "brunt",
+        "bruna"
+      ],
+      "answer": "bruna",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a brown umbrella"
+    },
+    {
+      "id": 329,
+      "sentence": "Han köper ett ____ problem",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a small problem"
+    },
+    {
+      "id": 330,
+      "sentence": "De ____ stolar är stora",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nya",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The new chairs are big"
+    },
+    {
+      "id": 331,
+      "sentence": "Han köper ett ____ djur",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a purple animals"
+    },
+    {
+      "id": 332,
+      "sentence": "Hon köper en ____ möjlighet",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a big possibility"
+    },
+    {
+      "id": 335,
+      "sentence": "Vi ser två ____ stolar",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two big chairs"
+    },
+    {
+      "id": 336,
+      "sentence": "Hon dricker ____ te",
+      "baseAdjective": "svår",
+      "options": [
+        "brunt",
+        "brun",
+        "bruna"
+      ],
+      "answer": "brunt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks svår tea"
+    },
+    {
+      "id": 337,
+      "sentence": "Hon köper en ____ glasögon",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a big glasses"
+    },
+    {
+      "id": 339,
+      "sentence": "Vi ser två ____ hundar",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two good dogs"
+    },
+    {
+      "id": 340,
+      "sentence": "Jag har ett ____ kapitel",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressant",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have an interesting chapter"
+    },
+    {
+      "id": 341,
+      "sentence": "Jag äter ____ äpple",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat a small apple"
+    },
+    {
+      "id": 342,
+      "sentence": "De äter flera ____ ägg",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several yellow eggs"
+    },
+    {
+      "id": 343,
+      "sentence": "Hon köper en ____ paraply",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a small umbrella"
+    },
+    {
+      "id": 344,
+      "sentence": "Jag äter ____ fisk",
+      "baseAdjective": "rätt",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gult",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat yellow fish"
+    },
+    {
+      "id": 345,
+      "sentence": "De ____ barn är stora",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The big children are big"
+    },
+    {
+      "id": 346,
+      "sentence": "Jag har en ____ idé",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a good idea"
+    },
+    {
+      "id": 347,
+      "sentence": "De äter flera ____ bröd",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "brunt",
+        "bruna"
+      ],
+      "answer": "bruna",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several brown bread"
+    },
+    {
+      "id": 349,
+      "sentence": "De ____ hattar är stora",
+      "baseAdjective": "gul",
+      "options": [
+        "gula",
+        "gul",
+        "gult"
+      ],
+      "answer": "gula",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The yellow hats are big"
+    },
+    {
+      "id": 350,
+      "sentence": "Han köper ett ____ ägg",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys an old egg"
+    },
+    {
+      "id": 351,
+      "sentence": "Jag har en ____ handväska",
+      "baseAdjective": "vit",
+      "options": [
+        "vita",
+        "vit",
+        "vitt"
+      ],
+      "answer": "vit",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a white handbag"
+    },
+    {
+      "id": 352,
+      "sentence": "Jag äter ____ bröd",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat old bread"
+    },
+    {
+      "id": 353,
+      "sentence": "Den ____ tavla är bra",
+      "baseAdjective": "fin",
+      "options": [
+        "fina",
+        "fin",
+        "fint"
+      ],
+      "answer": "fina",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a nice painting"
+    },
+    {
+      "id": 354,
+      "sentence": "Det ____ djur är fint",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The old animals is nice"
+    },
+    {
+      "id": 355,
+      "sentence": "Vi ser två ____ hattar",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nya",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two new hats"
+    },
+    {
+      "id": 357,
+      "sentence": "Hon köper en ____ bok",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stor",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a big book"
+    },
+    {
+      "id": 358,
+      "sentence": "Jag har ett ____ svar",
+      "baseAdjective": "fel",
+      "options": [
+        "fel",
+        "fel",
+        "fel"
+      ],
+      "answer": "fel",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a wrong answer"
+    },
+    {
+      "id": 362,
+      "sentence": "Hon dricker ____ vatten",
+      "baseAdjective": "gammal",
+      "options": [
+        "gamla",
+        "gammal",
+        "gammalt"
+      ],
+      "answer": "gammalt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks old water"
+    },
+    {
+      "id": 363,
+      "sentence": "De ____ hundar är stora",
+      "baseAdjective": "vit",
+      "options": [
+        "vit",
+        "vitt",
+        "vita"
+      ],
+      "answer": "vita",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The white dogs are big"
+    },
+    {
+      "id": 364,
+      "sentence": "Jag har en ____ bild",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a good picture"
+    },
+    {
+      "id": 366,
+      "sentence": "Hon dricker ____ juice",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks old juice"
+    },
+    {
+      "id": 367,
+      "sentence": "Jag har ett ____ problem",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have an old problem"
+    },
+    {
+      "id": 369,
+      "sentence": "Hon dricker ____ vatten",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gult",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks yellow water"
+    },
+    {
+      "id": 370,
+      "sentence": "Jag har en ____ fråga",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammal",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have an old question"
+    },
+    {
+      "id": 373,
+      "sentence": "Vi ser två ____ nycklar",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two purple keys"
+    },
+    {
+      "id": 374,
+      "sentence": "Det ____ svar är fint",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The good answer is nice"
+    },
+    {
+      "id": 375,
+      "sentence": "Den ____ klocka är bra",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a purple clock"
+    },
+    {
+      "id": 377,
+      "sentence": "Hon dricker ____ te",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks old tea"
+    },
+    {
+      "id": 379,
+      "sentence": "De äter flera ____ äpplen",
+      "baseAdjective": "vit",
+      "options": [
+        "vit",
+        "vitt",
+        "vita"
+      ],
+      "answer": "vita",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several white apples"
+    },
+    {
+      "id": 380,
+      "sentence": "De äter flera ____ ägg",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "brunt",
+        "bruna"
+      ],
+      "answer": "bruna",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several brown eggs"
+    },
+    {
+      "id": 381,
+      "sentence": "Jag har en ____ väska",
+      "baseAdjective": "fin",
+      "options": [
+        "fint",
+        "fin",
+        "fina"
+      ],
+      "answer": "fin",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a nice bag"
+    },
+    {
+      "id": 385,
+      "sentence": "Det ____ kapitel är fint",
+      "baseAdjective": "lätt",
+      "options": [
+        "lätt",
+        "lätt",
+        "lätta"
+      ],
+      "answer": "lätt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The easy chapter is nice"
+    },
+    {
+      "id": 387,
+      "sentence": "Jag har ett ____ beslut",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a new decision"
+    },
+    {
+      "id": 389,
+      "sentence": "Hon dricker ____ vatten",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nya",
+        "nytt"
+      ],
+      "answer": "nytt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks new water"
+    },
+    {
+      "id": 390,
+      "sentence": "De äter flera ____ fisk",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nya",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several new fish"
+    },
+    {
+      "id": 393,
+      "sentence": "Vi ser två ____ bilar",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two good cars"
+    },
+    {
+      "id": 394,
+      "sentence": "Han köper ett ____ hus",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammalt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys an old house"
+    },
+    {
+      "id": 395,
+      "sentence": "Vi ser två ____ väskor",
+      "baseAdjective": "vit",
+      "options": [
+        "vitt",
+        "vit",
+        "vita"
+      ],
+      "answer": "vita",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two white bags"
+    },
+    {
+      "id": 396,
+      "sentence": "Jag har en ____ plan",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a new plan"
+    },
+    {
+      "id": 397,
+      "sentence": "De äter flera ____ äpplen",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stora",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several big apples"
+    },
+    {
+      "id": 398,
+      "sentence": "Hon köper en ____ ring",
+      "baseAdjective": "fin",
+      "options": [
+        "fina",
+        "fin",
+        "fint"
+      ],
+      "answer": "fin",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a nice ring"
+    },
+    {
+      "id": 399,
+      "sentence": "Jag har ett ____ ägg",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a new eggs"
+    },
+    {
+      "id": 402,
+      "sentence": "Hon köper en ____ bild",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a new picture"
+    },
+    {
+      "id": 404,
+      "sentence": "Jag äter ____ kött",
+      "baseAdjective": "god",
+      "options": [
+        "god",
+        "gott",
+        "goda"
+      ],
+      "answer": "gott",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat delicious meat"
+    },
+    {
+      "id": 405,
+      "sentence": "Jag har en ____ paraply",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammal",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have an old umbrella"
+    },
+    {
+      "id": 407,
+      "sentence": "Jag äter ____ ägg",
+      "baseAdjective": "lätt",
+      "options": [
+        "gula",
+        "gult",
+        "gul"
+      ],
+      "answer": "gult",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat yellow egg"
+    },
+    {
+      "id": 408,
+      "sentence": "Hon köper en ____ kudde",
+      "baseAdjective": "gul",
+      "options": [
+        "gula",
+        "gul",
+        "gult"
+      ],
+      "answer": "gul",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a yellow pillow"
+    },
+    {
+      "id": 409,
+      "sentence": "Det ____ ägg är fint",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "bruna",
+        "brunt"
+      ],
+      "answer": "bruna",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The brown eggs is nice"
+    },
+    {
+      "id": 412,
+      "sentence": "Hon dricker ____ kaffe",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks new coffee"
+    },
+    {
+      "id": 413,
+      "sentence": "Hon köper en ____ fråga",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a new question"
+    },
+    {
+      "id": 415,
+      "sentence": "Jag har en ____ lösning",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a new solution"
+    },
+    {
+      "id": 416,
+      "sentence": "Den ____ fotografi är bra",
+      "baseAdjective": "gul",
+      "options": [
+        "gula",
+        "gult",
+        "gul"
+      ],
+      "answer": "gula",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a yellow photograph"
+    },
+    {
+      "id": 425,
+      "sentence": "Den ____ kudde är bra",
+      "baseAdjective": "vit",
+      "options": [
+        "vitt",
+        "vita",
+        "vit"
+      ],
+      "answer": "vita",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a white pillow"
+    },
+    {
+      "id": 428,
+      "sentence": "Jag har en ____ risk",
+      "baseAdjective": "låg",
+      "options": [
+        "låg",
+        "lågt",
+        "låga"
+      ],
+      "answer": "låg",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a low risk"
+    },
+    {
+      "id": 429,
+      "sentence": "Jag äter ____ ägg",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "litet",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "I eat small egg"
+    },
+    {
+      "id": 432,
+      "sentence": "Det ____ moment är fint",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svårt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The difficult moment is nice"
+    },
+    {
+      "id": 434,
+      "sentence": "Han köper ett ____ äpple",
+      "baseAdjective": "stor",
+      "options": [
+        "stor",
+        "stort",
+        "stora"
+      ],
+      "answer": "stort",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a big apple"
+    },
+    {
+      "id": 436,
+      "sentence": "De äter flera ____ ägg",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "They eat several yellow eggs"
+    },
+    {
+      "id": 437,
+      "sentence": "Han köper ett ____ program",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressant",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys an interesting program"
+    },
+    {
+      "id": 438,
+      "sentence": "Hon köper en ____ fotografi",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a good photograph"
+    },
+    {
+      "id": 440,
+      "sentence": "Han köper ett ____ projekt",
+      "baseAdjective": "viktig",
+      "options": [
+        "viktig",
+        "viktigt",
+        "viktiga"
+      ],
+      "answer": "viktigt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys an important project"
+    },
+    {
+      "id": 441,
+      "sentence": "De ____ kvinnor är stora",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The good women are big"
+    },
+    {
+      "id": 442,
+      "sentence": "Det ____ ämne är fint",
+      "baseAdjective": "intressant",
+      "options": [
+        "intressant",
+        "intressant",
+        "intressanta"
+      ],
+      "answer": "intressant",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The interesting subject is nice"
+    },
+    {
+      "id": 443,
+      "sentence": "Han köper ett ____ system",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dåligt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a bad system"
+    },
+    {
+      "id": 445,
+      "sentence": "Hon dricker ____ mjölk",
+      "baseAdjective": "fel",
+      "options": [
+        "vita",
+        "vitt",
+        "vit"
+      ],
+      "answer": "vitt",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks fel milk"
+    },
+    {
+      "id": 449,
+      "sentence": "Jag har en ____ handduk",
+      "baseAdjective": "gammal",
+      "options": [
+        "gammal",
+        "gammalt",
+        "gamla"
+      ],
+      "answer": "gammal",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have an old towel"
+    },
+    {
+      "id": 450,
+      "sentence": "Jag har en ____ ring",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gul",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a yellow ring"
+    },
+    {
+      "id": 451,
+      "sentence": "Det ____ barn är fint",
+      "baseAdjective": "lila",
+      "options": [
+        "lila",
+        "lila",
+        "lila"
+      ],
+      "answer": "lila",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The purple children is nice"
+    },
+    {
+      "id": 452,
+      "sentence": "Det ____ resultat är fint",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The good result is nice"
+    },
+    {
+      "id": 458,
+      "sentence": "Hon dricker ____ vatten",
+      "baseAdjective": "intressant",
+      "options": [
+        "gult",
+        "gul",
+        "gula"
+      ],
+      "answer": "gult",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks intressant water"
+    },
+    {
+      "id": 460,
+      "sentence": "Hon dricker ____ vatten",
+      "baseAdjective": "intressant",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Ett-word",
+      "level": 2,
+      "translation": "She drinks intressant water"
+    },
+    {
+      "id": 461,
+      "sentence": "De ____ väskor är stora",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nya",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The new bags are big"
+    },
+    {
+      "id": 470,
+      "sentence": "Hon köper en ____ väska",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a small bag"
+    },
+    {
+      "id": 476,
+      "sentence": "Jag har ett ____ äpple",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a good apple"
+    },
+    {
+      "id": 478,
+      "sentence": "Den ____ möjlighet är bra",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "ny",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a new possibility"
+    },
+    {
+      "id": 480,
+      "sentence": "Hon köper en ____ klocka",
+      "baseAdjective": "fin",
+      "options": [
+        "fina",
+        "fint",
+        "fin"
+      ],
+      "answer": "fin",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "She buys a nice clock"
+    },
+    {
+      "id": 483,
+      "sentence": "Jag har ett ____ ämne",
+      "baseAdjective": "svår",
+      "options": [
+        "svår",
+        "svårt",
+        "svåra"
+      ],
+      "answer": "svårt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a difficult subject"
+    },
+    {
+      "id": 484,
+      "sentence": "Det ____ system är fint",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The new system is nice"
+    },
+    {
+      "id": 488,
+      "sentence": "De ____ böcker är stora",
+      "baseAdjective": "brun",
+      "options": [
+        "brun",
+        "bruna",
+        "brunt"
+      ],
+      "answer": "bruna",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The brown books are big"
+    },
+    {
+      "id": 489,
+      "sentence": "Det ____ beslut är fint",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nytt",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "The new decision is nice"
+    },
+    {
+      "id": 492,
+      "sentence": "Vi ser två ____ män",
+      "baseAdjective": "gul",
+      "options": [
+        "gul",
+        "gult",
+        "gula"
+      ],
+      "answer": "gula",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two yellow men"
+    },
+    {
+      "id": 493,
+      "sentence": "Vi ser två ____ barn",
+      "baseAdjective": "brun",
+      "options": [
+        "bruna",
+        "brun",
+        "brunt"
+      ],
+      "answer": "bruna",
+      "rule": "Plural",
+      "level": 2,
+      "translation": "We see two brown children"
+    },
+    {
+      "id": 494,
+      "sentence": "De ____ män är stora",
+      "baseAdjective": "ny",
+      "options": [
+        "ny",
+        "nytt",
+        "nya"
+      ],
+      "answer": "nya",
+      "rule": "Definite plural",
+      "level": 3,
+      "translation": "The new men are big"
+    },
+    {
+      "id": 503,
+      "sentence": "Han köper ett ____ svar",
+      "baseAdjective": "bra",
+      "options": [
+        "bra",
+        "bra",
+        "bra"
+      ],
+      "answer": "bra",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "He buys a good answer"
+    },
+    {
+      "id": 512,
+      "sentence": "Jag har ett ____ djur",
+      "baseAdjective": "brun",
+      "options": [
+        "brunt",
+        "bruna",
+        "brun"
+      ],
+      "answer": "brunt",
+      "rule": "Singular ett-word",
+      "level": 1,
+      "translation": "I have a brown animals"
+    },
+    {
+      "id": 514,
+      "sentence": "Den ____ risk är bra",
+      "baseAdjective": "liten",
+      "options": [
+        "liten",
+        "litet",
+        "små"
+      ],
+      "answer": "liten",
+      "rule": "Definite form",
+      "level": 3,
+      "translation": "a small risk"
+    },
+    {
+      "id": 517,
+      "sentence": "Jag har en ____ chans",
+      "baseAdjective": "dålig",
+      "options": [
+        "dålig",
+        "dåligt",
+        "dåliga"
+      ],
+      "answer": "dålig",
+      "rule": "Singular en-word",
+      "level": 1,
+      "translation": "I have a bad chance"
+    }
+  ]
+}
