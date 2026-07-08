@@ -161,16 +161,16 @@ struct MenuButton: View {
                         .renderingMode(.template)
                         .aspectRatio(contentMode: .fit)
                         .frame(width: 25, height: 25)
-                        .foregroundColor(isSelected ? .primary : .secondary)
+                        .foregroundColor(isSelected ? .appRed : .secondary)
                 } else {
                     Image(systemName: iconName)
                         .font(.system(size: 20, weight: isSelected ? .semibold : .regular))
-                        .foregroundColor(isSelected ? .primary : .secondary)
+                        .foregroundColor(isSelected ? .appRed : .secondary)
                 }
                 
                 Text(title)
                     .font(.system(size: 10, weight: isSelected ? .semibold : .medium))
-                    .foregroundColor(isSelected ? .primary : .secondary)
+                    .foregroundColor(isSelected ? .appRed : .secondary)
             }
             .frame(maxWidth: .infinity)
             .frame(height: 88)

@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import UIKit
 
 enum TestFilter: String, CaseIterable {
     case all = "All"
@@ -42,9 +43,16 @@ struct HistoryView: View {
         NavigationView {
             contentView
                 .navigationTitle("Test History")
+                .navigationBarTitleDisplayMode(.inline)
                 .background(Color(.systemGroupedBackground))
         }
         .navigationViewStyle(StackNavigationViewStyle())
+        .onAppear {
+            applyAppRedNavigationTitle()
+        }
+        .onDisappear {
+            resetNavigationTitleColor()
+        }
         .onReceive(NotificationCenter.default.publisher(for: NSNotification.Name("SetHistoryFilter"))) { notification in
             if let userInfo = notification.userInfo, let filterString = userInfo["filter"] as? String {
                 switch filterString {
@@ -76,6 +84,7 @@ struct HistoryView: View {
                     }
                 }
                 .pickerStyle(.segmented)
+                .tint(.appRed)
                 .padding(.horizontal)
                 .padding(.top, 10)
                 .padding(.bottom, 10)
@@ -104,10 +113,11 @@ struct HistoryView: View {
         VStack(spacing: 20) {
             Image(systemName: "chart.bar.doc.horizontal")
                 .font(.system(size: 60))
-                .foregroundColor(.secondary)
+                .foregroundColor(.appRed)
             Text("No Test Results Yet")
                 .font(.title2)
                 .fontWeight(.semibold)
+                .foregroundColor(.appRed)
             Text("Complete a test to see your results here")
                 .font(.subheadline)
                 .foregroundColor(.secondary)
@@ -125,10 +135,10 @@ struct HistoryView: View {
                     VStack(spacing: 12) {
                         Image(systemName: "line.3.horizontal.decrease.circle")
                             .font(.system(size: 50))
-                            .foregroundColor(.secondary)
+                            .foregroundColor(.appRed)
                         Text("No results found")
                             .font(.headline)
-                            .foregroundColor(.secondary)
+                            .foregroundColor(.appRed)
                         Text("Try selecting a different filter")
                             .font(.subheadline)
                             .foregroundColor(.secondary)
@@ -184,6 +194,17 @@ struct HistoryView: View {
     
     private func deleteResults(at offsets: IndexSet) {
         // Note: Delete functionality can be added with swipe actions if needed
+    }
+
+    private func applyAppRedNavigationTitle() {
+        let appRed = UIColor(red: 216 / 255, green: 60 / 255, blue: 73 / 255, alpha: 1)
+        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: appRed]
+        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: appRed]
+    }
+
+    private func resetNavigationTitleColor() {
+        UINavigationBar.appearance().titleTextAttributes = nil
+        UINavigationBar.appearance().largeTitleTextAttributes = nil
     }
 }
 

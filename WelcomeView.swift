@@ -27,7 +27,7 @@ struct WelcomeView: View {
                 VStack(spacing: 12) {
                     Text("Welcome to SWGrammar!")
                         .font(.system(size: 26, weight: .bold))
-                        .foregroundColor(.primary)
+                        .foregroundColor(.appRed)
                     
 //                    Text("Master Swedish Grammar")
 //                        .font(.system(size: 18, weight: .medium))
@@ -73,7 +73,7 @@ struct WelcomeView: View {
                         VStack(alignment: .leading, spacing: 12) {
                             Text("What you'll get:")
                                 .font(.headline)
-                                .foregroundColor(.primary)
+                                .foregroundColor(.appRed)
                             
                             BenefitRow(text: "Instant feedback on every answer")
                             BenefitRow(text: "Audio pronunciation for better learning")
@@ -99,7 +99,7 @@ struct WelcomeView: View {
                         HStack(spacing: 8) {
                             Image(systemName: dontShowAgain ? "checkmark.square.fill" : "square")
                                 .font(.system(size: 18))
-                                .foregroundColor(dontShowAgain ? .blue : .secondary)
+                                .foregroundColor(dontShowAgain ? .appRed : .secondary)
                             Text("Don't show this again")
                                 .font(.subheadline)
                                 .foregroundColor(.primary)
@@ -115,7 +115,7 @@ struct WelcomeView: View {
                             .foregroundColor(.white)
                             .frame(maxWidth: .infinity)
                             .frame(height: 50)
-                            .background(Color.blue)
+                            .background(Color.appRed)
                             .cornerRadius(12)
                     }
                     .padding(.horizontal, 20)
@@ -152,13 +152,13 @@ struct FeatureRow: View {
                 .renderingMode(.template)
                 .aspectRatio(contentMode: .fit)
                 .frame(width: 40, height: 40)
-                .foregroundColor(.blue)
+                .foregroundColor(.appRed)
             
             // Text
             VStack(alignment: .leading, spacing: 4) {
                 Text(title)
                     .font(.headline)
-                    .foregroundColor(.primary)
+                    .foregroundColor(.appRed)
                 
                 Text(description)
                     .font(.subheadline)
@@ -176,7 +176,7 @@ struct BenefitRow: View {
         HStack(alignment: .top, spacing: 10) {
             Image(systemName: "checkmark.circle.fill")
                 .font(.system(size: 16))
-                .foregroundColor(.green)
+                .foregroundColor(.appRed)
                 .padding(.top, 2)
             
             Text(text)

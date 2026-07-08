@@ -7,6 +7,7 @@
 
 import SwiftUI
 import UserNotifications
+import UIKit
 
 struct SettingsView: View {
     @ObservedObject var resultsManager: TestResultsManager
@@ -34,7 +35,7 @@ struct SettingsView: View {
                 Section {
                     SettingsRow(
                         icon: "moon.fill",
-                        iconColor: .purple,
+                        iconColor: .appRed,
                         title: "Dark Mode",
                         subtitle: "Enable dark mode",
                         trailing: {
@@ -44,6 +45,7 @@ struct SettingsView: View {
                     )
                 } header: {
                     Text("MODE")
+                        .foregroundColor(.appRed)
                 }
                 
                 // SCHEDULE Section
@@ -51,7 +53,7 @@ struct SettingsView: View {
                     Button(action: { showReminderModal = true }) {
                         SettingsRow(
                             icon: "bell.fill",
-                            iconColor: .orange,
+                            iconColor: .appRed,
                             title: "Daily Reminder",
                             subtitle: dailyReminder ? "Notification set to \(formatTime(selectedTime))" : "Set learning reminder",
                             trailing: {
@@ -70,6 +72,7 @@ struct SettingsView: View {
                     .foregroundColor(.primary)
                 } header: {
                     Text("SCHEDULE")
+                        .foregroundColor(.appRed)
                 }
                 
                 // LEARNING Section
@@ -77,7 +80,7 @@ struct SettingsView: View {
                     Button(action: { showLearningTips = true }) {
                         SettingsRow(
                             icon: "lightbulb.fill",
-                            iconColor: .yellow,
+                            iconColor: .appRed,
                             title: "Learning Tips",
                             subtitle: "Effective learning strategies",
                             trailing: {
@@ -90,6 +93,7 @@ struct SettingsView: View {
                     .foregroundColor(.primary)
                 } header: {
                     Text("LEARNING")
+                        .foregroundColor(.appRed)
                 }
                 
                 // CLEAR DATA Section
@@ -97,7 +101,7 @@ struct SettingsView: View {
                     Button(action: { showClearHistory = true }) {
                         SettingsRow(
                             icon: "trash.fill",
-                            iconColor: .red,
+                            iconColor: .appRed,
                             title: "Clear History",
                             subtitle: "Delete all saved tests",
                             trailing: {
@@ -110,6 +114,7 @@ struct SettingsView: View {
                     .foregroundColor(.primary)
                 } header: {
                     Text("CLEAR DATA")
+                        .foregroundColor(.appRed)
                 }
                 
                 // SUPPORT Section
@@ -117,7 +122,7 @@ struct SettingsView: View {
                     Button(action: { showHelp = true }) {
                         SettingsRow(
                             icon: "questionmark.circle.fill",
-                            iconColor: .blue,
+                            iconColor: .appRed,
                             title: "Help & Support",
                             subtitle: "Get help and contact support",
                             trailing: {
@@ -132,7 +137,7 @@ struct SettingsView: View {
                     Button(action: { showPrivacy = true }) {
                         SettingsRow(
                             icon: "doc.text.fill",
-                            iconColor: .blue,
+                            iconColor: .appRed,
                             title: "Terms and Privacy",
                             subtitle: "Privacy policy and terms",
                             trailing: {
@@ -147,7 +152,7 @@ struct SettingsView: View {
                     Button(action: { showAbout = true }) {
                         SettingsRow(
                             icon: "info.circle.fill",
-                            iconColor: .blue,
+                            iconColor: .appRed,
                             title: "About",
                             subtitle: "App version and information",
                             trailing: {
@@ -160,9 +165,12 @@ struct SettingsView: View {
                     .foregroundColor(.primary)
                 } header: {
                     Text("SUPPORT")
+                        .foregroundColor(.appRed)
                 }
             }
             .navigationTitle("Settings")
+            .navigationBarTitleDisplayMode(.inline)
+            .tint(.appRed)
             .sheet(isPresented: $showAbout) {
                 AboutView()
             }
@@ -197,6 +205,7 @@ struct SettingsView: View {
         }
         .navigationViewStyle(StackNavigationViewStyle())
         .onAppear {
+            applyAppRedNavigationTitle()
             // Initialize selectedTime from stored values
             let calendar = Calendar.current
             var components = DateComponents()
@@ -211,6 +220,9 @@ struct SettingsView: View {
             if dailyReminder {
                 updateNextReminderDate()
             }
+        }
+        .onDisappear {
+            resetNavigationTitleColor()
         }
     }
     
@@ -293,6 +305,17 @@ struct SettingsView: View {
         formatter.timeStyle = .short
         return formatter.string(from: date)
     }
+
+    private func applyAppRedNavigationTitle() {
+        let appRed = UIColor(red: 216 / 255, green: 60 / 255, blue: 73 / 255, alpha: 1)
+        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: appRed]
+        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: appRed]
+    }
+
+    private func resetNavigationTitleColor() {
+        UINavigationBar.appearance().titleTextAttributes = nil
+        UINavigationBar.appearance().largeTitleTextAttributes = nil
+    }
 }
 
 struct SettingsRow<Trailing: View>: View {
@@ -321,7 +344,7 @@ struct SettingsRow<Trailing: View>: View {
             VStack(alignment: .leading, spacing: 2) {
                 Text(title)
                     .font(.body)
-                    .foregroundColor(.primary)
+                    .foregroundColor(.appRed)
                 
                 if let subtitle = subtitle {
                     Text(subtitle)
@@ -402,7 +425,7 @@ struct LearningTipsView: View {
                         Text("What NOT to do")
                             .font(.title3)
                             .fontWeight(.bold)
-                            .foregroundColor(.red)
+                            .foregroundColor(.appRed)
                         
                         VStack(alignment: .leading, spacing: 8) {
                             Text("• Don't memorize long word lists")
@@ -426,7 +449,7 @@ struct LearningTipsView: View {
                         Text("The simplest winning routine (5 minutes)")
                             .font(.title3)
                             .fontWeight(.bold)
-                            .foregroundColor(.green)
+                            .foregroundColor(.appRed)
                         
                         VStack(alignment: .leading, spacing: 8) {
                             Text("• Pick 5 words")
@@ -455,6 +478,7 @@ struct LearningTipsView: View {
                 ToolbarItem(placement: .principal) {
                     Text("Learning Tips")
                         .font(.headline)
+                        .foregroundColor(.appRed)
                 }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Done") {
@@ -487,14 +511,14 @@ struct TipSection: View {
             Text(number)
                 .font(.title2)
                 .fontWeight(.bold)
-                .foregroundColor(.blue)
+                .foregroundColor(.appRed)
                 .frame(width: 30)
             
             VStack(alignment: .leading, spacing: 8) {
                 Text(title)
                     .font(.headline)
                     .fontWeight(.semibold)
-                    .foregroundColor(.primary)
+                    .foregroundColor(.appRed)
                 
                 Text(description)
                     .font(.body)
@@ -508,7 +532,7 @@ struct TipSection: View {
                             Text("Bad")
                                 .font(.subheadline)
                                 .fontWeight(.semibold)
-                                .foregroundColor(.red)
+                                .foregroundColor(.appRed)
                         }
                         Text(badExample)
                             .font(.body)
@@ -663,7 +687,7 @@ struct HelpSupportView: View {
                         if showError && !allFieldsFilled {
                             Section {
                                 Text("All fields are required.")
-                                    .foregroundColor(.red)
+                                    .foregroundColor(.appRed)
                                     .font(.subheadline)
                             }
                         }
@@ -682,7 +706,7 @@ struct HelpSupportView: View {
                                     .foregroundColor(.white)
                                     .frame(maxWidth: .infinity)
                                     .frame(height: 50)
-                                    .background(allFieldsFilled ? Color.green : Color.gray)
+                                    .background(allFieldsFilled ? Color.appRed : Color.gray)
                                     .cornerRadius(12)
                             }
                             .disabled(!allFieldsFilled)
@@ -694,6 +718,7 @@ struct HelpSupportView: View {
                         ToolbarItem(placement: .principal) {
                             Text("Contact us")
                                 .font(.headline)
+                                .foregroundColor(.appRed)
                         }
                     }
                 } else {
@@ -704,6 +729,7 @@ struct HelpSupportView: View {
                                 Text("We'd love to hear from you!")
                                     .font(.title3)
                                     .fontWeight(.bold)
+                                    .foregroundColor(.appRed)
                                 
                                 Text("Whether you have questions,")
                                     .font(.body)
@@ -722,7 +748,7 @@ struct HelpSupportView: View {
                                 Text("Email: abashelariprod@gmail.com")
                                     .font(.subheadline)
                                 
-                                Text("Website: https://abashelariprod.wordpress.com")
+                                Text("Website: https://abashelari.com")
                                     .font(.subheadline)
                                 
                                 Divider()
@@ -747,7 +773,7 @@ struct HelpSupportView: View {
                                     .foregroundColor(.white)
                                     .frame(maxWidth: .infinity)
                                     .frame(height: 50)
-                                    .background(Color.green)
+                                    .background(Color.appRed)
                                     .cornerRadius(12)
                                     .padding(.horizontal, 32)
                             }
@@ -766,6 +792,7 @@ struct HelpSupportView: View {
                         ToolbarItem(placement: .principal) {
                             Text("Help and support")
                                 .font(.headline)
+                                .foregroundColor(.appRed)
                         }
                     }
                 }
@@ -852,6 +879,7 @@ struct AboutView: View {
                         Text("About SWGrammar")
                             .font(.title2)
                             .fontWeight(.bold)
+                            .foregroundColor(.appRed)
                         
                         Text("SWGrammar is a comprehensive Swedish grammar learning app designed to help you master Swedish grammar with ease. Practice verb conjugations, learn personal pronouns, test your knowledge with interactive quizzes, and track your progress. Learn grammar rules with accurate translations and example sentences. Never miss a learning opportunity again.")
                             .font(.body)
@@ -866,6 +894,7 @@ struct AboutView: View {
                         Text("About ABASHELARI")
                             .font(.title2)
                             .fontWeight(.bold)
+                            .foregroundColor(.appRed)
                         
                         Text("At ABASHELARI, we believe in creating software that makes everyday life simpler, smarter, and more enjoyable. Our mission is to develop innovative digital solutions that blend creativity with technology, offering users tools that are intuitive, reliable, and engaging.")
                             .font(.body)
@@ -888,6 +917,7 @@ struct AboutView: View {
                 ToolbarItem(placement: .principal) {
                     Text("About")
                         .font(.headline)
+                        .foregroundColor(.appRed)
                 }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Done") {
@@ -935,6 +965,7 @@ struct TermsPrivacyView: View {
                 ToolbarItem(placement: .principal) {
                     Text("Terms & Privacy")
                         .font(.headline)
+                        .foregroundColor(.appRed)
                 }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Done") {
@@ -1120,6 +1151,7 @@ struct ReminderSettingsView: View {
                     Toggle("Daily Reminder", isOn: $isEnabled)
                 } header: {
                     Text("NOTIFICATION")
+                        .foregroundColor(.appRed)
                 } footer: {
                     Text("Get a daily reminder to practice Swedish grammar")
                 }
@@ -1129,12 +1161,19 @@ struct ReminderSettingsView: View {
                         DatePicker("Time", selection: $localSelectedTime, displayedComponents: .hourAndMinute)
                     } header: {
                         Text("TIME")
+                            .foregroundColor(.appRed)
                     }
                 }
             }
             .navigationTitle("Daily Reminder")
             .navigationBarTitleDisplayMode(.inline)
+            .tint(.appRed)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("Daily Reminder")
+                        .font(.headline)
+                        .foregroundColor(.appRed)
+                }
                 ToolbarItem(placement: .navigationBarLeading) {
                     Button("Cancel") {
                         dismiss()

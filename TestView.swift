@@ -35,12 +35,12 @@ struct TestView: View {
                             .renderingMode(.template)
                             .aspectRatio(contentMode: .fit)
                             .frame(width: 80, height: 80)
-                            .foregroundColor(.primary)
+                            .foregroundColor(.appRed)
                         
                         // Title
                         Text("Verbs")
                             .font(.system(size: 32, weight: .bold))
-                            .foregroundColor(.primary)
+                            .foregroundColor(.appRed)
                             .padding(.top, 20)
                         
                         // Descriptive text
@@ -59,7 +59,7 @@ struct TestView: View {
                                 .foregroundColor(.white)
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 50)
-                                .background(Color.blue)
+                                .background(Color.appRed)
                                 .cornerRadius(12)
                         }
                         .padding(.horizontal, 40)
@@ -71,7 +71,7 @@ struct TestView: View {
                         }) {
                             Text("My previous tests")
                                 .font(.headline)
-                                .foregroundColor(.blue)
+                                .foregroundColor(.appRed)
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 50)
                                 .background(Color(.systemGray6))
@@ -116,7 +116,7 @@ struct TestView: View {
                         .cornerRadius(12)
                         .overlay(
                             RoundedRectangle(cornerRadius: 12)
-                                .stroke(Color.blue, lineWidth: 1)
+                                .stroke(Color.appRed, lineWidth: 1)
                         )
                             
                             // Audio button - small icon on the right inside the frame
@@ -138,7 +138,7 @@ struct TestView: View {
                                     .renderingMode(.template)
                                     .aspectRatio(contentMode: .fit)
                                     .frame(width: 28, height: 28)
-                                    .foregroundColor(audioManager.isAudioReady ? .blue : .gray)
+                                    .foregroundColor(audioManager.isAudioReady ? .appRed : .gray)
                                     .padding(8)
                             }
                             .disabled(!audioManager.isAudioReady || audioManager.isPlaying)
@@ -270,14 +270,14 @@ struct TestView: View {
                                             .frame(width: 20, height: 20)
                                         Text("Incorrect!")
                                             .font(.headline)
-                                            .foregroundColor(.red)
+                                            .foregroundColor(.appRed)
                                         
                                         Button(action: {
                                             showWhyPopup = true
                                         }) {
                                             Text("Why?")
                                                 .font(.headline)
-                                                .foregroundColor(.blue)
+                                                .foregroundColor(.appRed)
                                                 .padding(.horizontal, 12)
                                                 .padding(.vertical, 6)
                                                 .cornerRadius(8)
@@ -319,7 +319,7 @@ struct TestView: View {
                                             .foregroundColor(.white)
                                             .padding()
                                             .frame(maxWidth: .infinity)
-                                            .background(Color.blue)
+                                            .background(Color.appRed)
                                             .cornerRadius(12)
                                     }
                                 }
@@ -351,7 +351,7 @@ struct TestView: View {
                                     .foregroundColor(.white)
                                     .padding()
                                     .frame(maxWidth: .infinity)
-                                    .background(viewModel.showFeedback ? Color.blue : Color.gray)
+                                    .background(viewModel.showFeedback ? Color.appRed : Color.gray)
                                     .cornerRadius(12)
                                 }
                                 .disabled(!viewModel.showFeedback)
@@ -369,13 +369,18 @@ struct TestView: View {
             .navigationBarTitleDisplayMode(.inline)
             .navigationBarHidden(false)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("Verbs Test")
+                        .font(.headline)
+                        .foregroundColor(.appRed)
+                }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     if !viewModel.testQuestions.isEmpty {
                         Button(action: {
                             viewModel.stopTest()
                         }) {
                             Image(systemName: "xmark")
-                                .foregroundColor(.red)
+                                .foregroundColor(.appRed)
                                 .font(.body)
                                 .fontWeight(.semibold)
                         }
@@ -470,7 +475,7 @@ struct TestView: View {
             }
             // Show light red background for wrong selected answer
             else if !viewModel.isCorrect && index == viewModel.selectedAnswer {
-                return Color.red.opacity(0.2) // Light red
+                return Color.appRed.opacity(0.2) // Light red
             }
         }
         
@@ -696,7 +701,7 @@ struct ProgressIndicatorView: View {
                     
                     // Blue progress fill
                     RoundedRectangle(cornerRadius: 4)
-                        .fill(Color.blue)
+                        .fill(Color.appRed)
                         .frame(width: geometry.size.width * progress, height: 8)
                 }
             }

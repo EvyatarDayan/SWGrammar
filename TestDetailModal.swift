@@ -127,13 +127,13 @@ struct TestDetailModal: View {
                         retakeTest()
                     }
                     .disabled(!canRetake)
-                    .foregroundColor(.blue)
+                    .foregroundColor(.appRed)
                 }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button("Done") {
                         isPresented = false
                     }
-                    .foregroundColor(.blue)
+                    .foregroundColor(.appRed)
                 }
             }
         }
@@ -221,7 +221,7 @@ struct QuestionRow: View {
         }
         .padding()
         .frame(maxWidth: .infinity, alignment: .leading)
-        .background(isCorrect ? Color.green.opacity(0.15) : Color.red.opacity(0.15))
+        .background(isCorrect ? Color.green.opacity(0.15) : Color.appRed.opacity(0.15))
         .cornerRadius(10)
     }
 }

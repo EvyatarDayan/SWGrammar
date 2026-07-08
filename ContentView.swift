@@ -97,10 +97,10 @@ struct ContentView: View {
                                 VStack(spacing: 10) {
                                     HStack {
                                         Image(systemName: "xmark.circle.fill")
-                                            .foregroundColor(.red)
+                                            .foregroundColor(.appRed)
                                         Text("Incorrect")
                                             .font(.headline)
-                                            .foregroundColor(.red)
+                                            .foregroundColor(.appRed)
                                     }
                                     
                                     Text("Correct answer: \(question.answer)")
@@ -127,7 +127,7 @@ struct ContentView: View {
                                     .foregroundColor(.white)
                                     .padding()
                                     .frame(maxWidth: .infinity)
-                                    .background(Color.blue)
+                                    .background(Color.appRed)
                                     .cornerRadius(12)
                             }
                             .padding(.top, 8)

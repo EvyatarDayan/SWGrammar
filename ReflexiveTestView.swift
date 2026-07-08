@@ -35,12 +35,12 @@ struct ReflexiveTestView: View {
                             .renderingMode(.template)
                             .aspectRatio(contentMode: .fit)
                             .frame(width: 80, height: 80)
-                            .foregroundColor(.primary)
+                            .foregroundColor(.appRed)
                         
                         // Title
                         Text("Reflexiva pronomen")
                             .font(.system(size: 32, weight: .bold))
-                            .foregroundColor(.primary)
+                            .foregroundColor(.appRed)
                             .padding(.top, 20)
                         
                         // Descriptive text
@@ -59,7 +59,7 @@ struct ReflexiveTestView: View {
                                 .foregroundColor(.white)
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 50)
-                                .background(Color.blue)
+                                .background(Color.appRed)
                                 .cornerRadius(12)
                         }
                         .padding(.horizontal, 40)
@@ -70,7 +70,7 @@ struct ReflexiveTestView: View {
                         }) {
                             Text("My previous tests")
                                 .font(.headline)
-                                .foregroundColor(.blue)
+                                .foregroundColor(.appRed)
                                 .frame(maxWidth: .infinity)
                                 .frame(height: 50)
                                 .background(Color(.systemGray6))
@@ -115,7 +115,7 @@ struct ReflexiveTestView: View {
                         .cornerRadius(12)
                         .overlay(
                             RoundedRectangle(cornerRadius: 12)
-                                .stroke(Color.blue, lineWidth: 1)
+                                .stroke(Color.appRed, lineWidth: 1)
                         )
                             
                             // Audio button
@@ -135,7 +135,7 @@ struct ReflexiveTestView: View {
                                     .renderingMode(.template)
                                     .aspectRatio(contentMode: .fit)
                                     .frame(width: 28, height: 28)
-                                    .foregroundColor(audioManager.isAudioReady ? .blue : .gray)
+                                    .foregroundColor(audioManager.isAudioReady ? .appRed : .gray)
                                     .padding(8)
                             }
                             .disabled(!audioManager.isAudioReady || audioManager.isPlaying)
@@ -259,14 +259,14 @@ struct ReflexiveTestView: View {
                                             .frame(width: 20, height: 20)
                                         Text("Incorrect!")
                                             .font(.headline)
-                                            .foregroundColor(.red)
+                                            .foregroundColor(.appRed)
                                         
                                         Button(action: {
                                             showWhyPopup = true
                                         }) {
                                             Text("Why?")
                                                 .font(.headline)
-                                                .foregroundColor(.blue)
+                                                .foregroundColor(.appRed)
                                                 .padding(.horizontal, 12)
                                                 .padding(.vertical, 6)
                                                 .cornerRadius(8)
@@ -306,7 +306,7 @@ struct ReflexiveTestView: View {
                                             .foregroundColor(.white)
                                             .padding()
                                             .frame(maxWidth: .infinity)
-                                            .background(Color.blue)
+                                            .background(Color.appRed)
                                             .cornerRadius(12)
                                     }
                                 }
@@ -337,7 +337,7 @@ struct ReflexiveTestView: View {
                                     .foregroundColor(.white)
                                     .padding()
                                     .frame(maxWidth: .infinity)
-                                    .background(viewModel.showFeedback ? Color.blue : Color.gray)
+                                    .background(viewModel.showFeedback ? Color.appRed : Color.gray)
                                     .cornerRadius(12)
                                 }
                                 .disabled(!viewModel.showFeedback)
@@ -355,13 +355,18 @@ struct ReflexiveTestView: View {
             .navigationBarTitleDisplayMode(.inline)
             .navigationBarHidden(false)
             .toolbar {
+                ToolbarItem(placement: .principal) {
+                    Text("Reflexiva pronomen")
+                        .font(.headline)
+                        .foregroundColor(.appRed)
+                }
                 ToolbarItem(placement: .navigationBarTrailing) {
                     if !viewModel.testQuestions.isEmpty {
                         Button(action: {
                             viewModel.stopTest()
                         }) {
                             Image(systemName: "xmark")
-                                .foregroundColor(.red)
+                                .foregroundColor(.appRed)
                                 .font(.body)
                                 .fontWeight(.semibold)
                         }
@@ -452,7 +457,7 @@ struct ReflexiveTestView: View {
                 return Color.green.opacity(0.2)
             }
             else if !viewModel.isCorrect && index == viewModel.selectedAnswer {
-                return Color.red.opacity(0.2)
+                return Color.appRed.opacity(0.2)
             }
         }
         
